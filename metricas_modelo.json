@@ -1,0 +1,21 @@
+{
+  "modelo": "Random Forest",
+  "hiperparametros": {
+    "n_estimators": 300,
+    "min_samples_leaf": 3,
+    "max_features": 0.5,
+    "max_depth": 8
+  },
+  "test": {
+    "MAE_usd": 1894.7,
+    "MAPE_pct": 16.65,
+    "R2": 0.9032
+  },
+  "cv_5fold": {
+    "MAE": 2011.4183,
+    "MAE_std": 143.5391,
+    "R2": 0.8575,
+    "R2_std": 0.0278
+  },
+  "cumple_RF02_en_test": true
+}
