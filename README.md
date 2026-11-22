@@ -1,51 +1,65 @@
-# Análisis de costos médicos y bienestar del paciente
+# Costos médicos y bienestar del paciente
 
-Proyecto académico de ciencia de datos para analizar qué características de los afiliados se relacionan con sus costos médicos anuales. El trabajo incluye exploración de datos, preparación de variables, comparación y evaluación de modelos predictivos, además de análisis ético, financiero y de riesgos.
+Proyecto académico de ciencia de datos para analizar los costos médicos anuales y comparar modelos de estimación. El notebook puede ejecutarse en **Google Colab** o **VS Code**. El dashboard interactivo se ejecuta localmente desde **VS Code** con Streamlit.
 
-El entregable técnico principal es el notebook [`Ev3.ipynb`](./Ev3.ipynb). El modelo estima `charges` (costos en USD) usando variables como edad, sexo, IMC, número de hijos, tabaquismo y región. Sus resultados sirven como análisis exploratorio y no como recomendación médica ni como sistema listo para producción.
+## Integrantes
 
-## Contenido del proyecto
+- Nicolás Fonseca Olivares
+- Cristóbal Segovia Retamal
+- Bastián Rubio Meneses
 
-| Archivo | Descripción |
-|---|---|
-| `Ev3.ipynb` | Notebook principal: EDA, ingeniería de variables, entrenamiento, evaluación, explicabilidad y auditoría de equidad. También contiene análisis ético, financiero y de riesgos. |
-| `insurance.csv` | Dataset de entrada utilizado por el notebook. |
-| `modelo_costos_medicos.joblib` | Pipeline de modelo entrenado, guardado para su reutilización. |
-| `metricas_modelo.json` | Resumen de hiperparámetros y métricas del modelo guardado. |
-| `requirements.txt` | Dependencias Python para el análisis. |
-| `Informe_Ev2_Duoc_corregido_2.docx` | Informe de factibilidad relacionado con el proyecto. |
-| `EP5_Instrucciones y Pauta ENCARGO_Estudiante.pdf` | Instrucciones y pauta de evaluación del encargo. |
-| `Intrucciones_Evaluacion.md` | Copia en Markdown de las instrucciones y la pauta. |
+## Archivos principales
 
-## Requisitos
+- `EP5_Implementacion_Costos_Medicos_v3.ipynb`: análisis, preparación de datos y evaluación de modelos.
+- `app_dashboard_salud-v2.py`: dashboard de resultados y análisis preventivo.
+- `insurance.csv`: dataset utilizado por el notebook y el dashboard.
+- `requirements.txt`: dependencias de Python para el proyecto.
 
-- Python instalado.
-- Las dependencias listadas en `requirements.txt`.
-- Jupyter Notebook o JupyterLab para ejecutar el análisis de forma interactiva.
+## Ejecutar en Google Colab
 
-## Instalación y ejecución
+1. Abre Google Colab y carga `EP5_Implementacion_Costos_Medicos_v3.ipynb` desde tu computador.
+2. Sube `insurance.csv` al entorno de Colab desde el panel **Archivos** (icono de carpeta). El archivo debe quedar en la carpeta de trabajo, junto al notebook.
+3. En una celda, instala las dependencias del análisis:
 
-Desde la carpeta del proyecto, en PowerShell:
+   ```python
+   %pip install pandas numpy matplotlib seaborn scipy scikit-learn shap joblib
+   ```
+
+4. Ejecuta todas las celdas con **Entorno de ejecución > Ejecutar todas**. Si Colab solicita reiniciar el entorno después de instalar, reinícialo y vuelve a ejecutar las celdas.
+
+Los archivos que genera el notebook quedan en el almacenamiento temporal de la sesión de Colab. Descárgalos antes de cerrar o reiniciar el entorno si necesitas conservarlos.
+
+## Ejecutar en VS Code
+
+1. Abre en VS Code la carpeta del proyecto.
+2. Instala las extensiones **Python** y **Jupyter** si aún no están instaladas.
+3. Abre la terminal integrada y crea un entorno virtual:
+
+   ```powershell
+   py -m venv .venv
+   .\.venv\Scripts\Activate.ps1
+   python -m pip install --upgrade pip
+   pip install -r requirements.txt
+   ```
+
+   Si PowerShell bloquea la activación del entorno, ejecuta `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` en esa terminal y vuelve a activar `.venv`.
+4. En VS Code, selecciona el intérprete Python de `.venv` y abre `EP5_Implementacion_Costos_Medicos_v3.ipynb`.
+5. Selecciona el kernel `.venv` y ejecuta todas las celdas con **Restart Kernel and Run All**.
+
+Mantén `insurance.csv` en la carpeta principal del proyecto. El notebook genera `modelo_costos_medicos.joblib`, `metricas_modelo.json` y `reporte_segmentacion_preventiva.csv` en la carpeta de trabajo.
+
+## Ejecutar el dashboard en VS Code
+
+Con `.venv` activado y la terminal situada en la carpeta principal del proyecto, ejecuta:
 
 ```powershell
-pip install -r requirements.txt
+streamlit run app_dashboard_salud-v2.py
 ```
 
-En Jupyter, abre `Ev3.ipynb` y ejecuta todas las celdas, preferentemente con **Restart Kernel and Run All Cells**. El archivo `insurance.csv` debe permanecer en la misma carpeta que el notebook.
+El dashboard se abrirá en el navegador, normalmente en `http://localhost:8501`. La aplicación carga `insurance.csv` y prepara los modelos al iniciar; la carga inicial puede tardar. Para detenerla, presiona `Ctrl+C` en la terminal.
 
-Al finalizar, las últimas celdas guardan o actualizan `modelo_costos_medicos.joblib` y `metricas_modelo.json` en la carpeta de trabajo. El notebook incluye celdas de instalación y muestra versiones de algunas librerías para apoyar la reproducibilidad. Las versiones no están fijadas en `requirements.txt`, por lo que los resultados pueden variar entre entornos.
+## Dataset y uso de resultados
 
-## Resultado registrado
+`insurance.csv` debe contener las columnas `age`, `sex`, `bmi`, `children`, `smoker`, `region` y `charges`. El procesamiento comprueba el esquema y los valores nulos, y elimina filas duplicadas.
 
-El archivo de métricas disponible corresponde a un modelo **Random Forest** con 300 árboles, profundidad máxima 8, mínimo de 3 muestras por hoja y `max_features=0.5`. En la evaluación registrada:
-
-- **MAE en test:** USD 1.894,7.
-- **MAPE en test:** 16,65%.
-- **R² en test:** 0,9032.
-- **Validación cruzada de 5 particiones:** MAE promedio USD 2.011,42 (desviación estándar 143,54) y R² promedio 0,8575 (desviación estándar 0,0278).
-
-Estas cifras describen la ejecución registrada en `metricas_modelo.json`; al volver a ejecutar el notebook, los valores pueden cambiar.
-
-## Alcance y limitaciones
-
-El notebook informa que, de 1.338 registros originales, se elimina un duplicado y se analizan 1.337 filas sin valores nulos. Las edades observadas van de 18 a 64 años, por lo que los resultados no representan a adultos mayores. Las asociaciones encontradas en los datos no implican causalidad, y las métricas por sí solas no bastan para tomar decisiones sobre afiliados. Consulte las secciones de ética y auditoría de equidad del notebook antes de interpretar el modelo.
+Los resultados son exploratorios y pueden variar según los datos y las versiones de las bibliotecas. No demuestran causalidad ni constituyen recomendaciones médicas. No deben utilizarse para fijar tarifas ni excluir afiliados; consulta las secciones de ética y equidad del notebook antes de interpretarlos.

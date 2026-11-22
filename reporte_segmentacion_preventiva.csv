@@ -1,0 +1,1338 @@
+id_afiliado_hash,age,sex,bmi,bmi_category,children,smoker,region,costo_proyectado,segmento_rf03
+4403ab7b0d46be69,19,female,27.9,Sobrepeso,0,yes,southwest,17086.98461194994,Seguimiento Estándar
+3c7dfa7811b9a817,18,male,33.77,Obesidad I,1,no,southeast,2358.8108096759365,Seguimiento Estándar
+f49d510aca112639,28,male,33.0,Obesidad I,3,no,southeast,4934.21336983971,Seguimiento Estándar
+446e66266bf6913e,33,male,22.705,Normal,0,no,northwest,6479.925907689064,Seguimiento Estándar
+95f1c9372eef7d95,32,male,28.88,Sobrepeso,0,no,northwest,4389.124964096888,Seguimiento Estándar
+70fa2b4e21cb4eac,31,female,25.74,Sobrepeso,0,no,southeast,3912.174553973205,Seguimiento Estándar
+ff710cc3b69e424c,46,female,33.44,Obesidad I,1,no,southeast,8978.979315808861,Seguimiento Estándar
+d1d07d8416114347,37,female,27.74,Sobrepeso,3,no,northwest,6800.912304323454,Seguimiento Estándar
+04ad58802b3bf400,37,male,29.83,Sobrepeso,2,no,northeast,7123.7649604074695,Seguimiento Estándar
+b3d797817dfe1212,60,female,25.84,Sobrepeso,0,no,northwest,14907.220333605137,Seguimiento Estándar
+8e73ef6d4c9e6e3b,25,male,26.22,Sobrepeso,0,no,northeast,3072.0990307875463,Seguimiento Estándar
+bd86aeccd10c1215,62,female,26.29,Sobrepeso,0,yes,southeast,27538.872622194383,Atención Preventiva Prioritaria
+650b22c675c5516f,23,male,34.4,Obesidad I,0,no,southwest,2640.4962364580447,Seguimiento Estándar
+eaac77a6f04ac9ef,56,female,39.82,Obesidad II,0,no,southeast,11892.92734043073,Seguimiento Estándar
+b4b55dbab88efa1d,27,male,42.13,Obesidad III,0,yes,southeast,40598.81451802754,Atención Preventiva Prioritaria
+8fb0448c0aba7add,19,male,24.6,Normal,1,no,southwest,2104.0000203044906,Seguimiento Estándar
+243730d5c1d4b92c,52,female,30.78,Obesidad I,1,no,northeast,11985.538627710832,Seguimiento Estándar
+d3a5e410eafe208f,23,male,23.845,Normal,0,no,northeast,3145.3208731635855,Seguimiento Estándar
+2909af454388cc4b,56,male,40.3,Obesidad III,0,no,southwest,11758.376978746672,Seguimiento Estándar
+278d968cfcacfe2c,30,male,35.3,Obesidad II,0,yes,southwest,37986.47270185145,Atención Preventiva Prioritaria
+f4ad4d0e56b698ee,60,female,36.005,Obesidad II,0,no,northeast,13759.801190158953,Seguimiento Estándar
+bade89dd4b69253e,30,female,32.4,Obesidad I,1,no,southwest,4858.306073807853,Seguimiento Estándar
+6ebec8baaa4f7ab9,18,male,34.1,Obesidad I,0,no,southeast,1643.5454035316172,Seguimiento Estándar
+4e9465f2280bd491,34,female,31.92,Obesidad I,1,yes,northeast,40077.5212060344,Atención Preventiva Prioritaria
+40e490f74271de15,37,male,28.025,Sobrepeso,2,no,northwest,6536.687888407228,Seguimiento Estándar
+f45e7a0cf7a2ba30,59,female,27.72,Sobrepeso,3,no,southeast,14493.80697243638,Seguimiento Estándar
+19ce32c1f238debf,63,female,23.085,Normal,0,no,northeast,14170.615638276991,Seguimiento Estándar
+6eec3a565e66f364,55,female,32.775,Obesidad I,2,no,northwest,13162.825025049011,Seguimiento Estándar
+444d160eed6d78aa,23,male,17.385,Bajo peso,1,no,northwest,3949.388922324515,Seguimiento Estándar
+35e4177ec0eaf2c9,31,male,36.3,Obesidad II,2,yes,southwest,42403.82805193418,Atención Preventiva Prioritaria
+c8954809e70964b5,22,male,35.6,Obesidad II,0,yes,southwest,35949.28557487148,Atención Preventiva Prioritaria
+31e75129ad01400a,18,female,26.315,Sobrepeso,0,no,northeast,2318.552714769732,Seguimiento Estándar
+a01db00c0d844316,19,female,28.6,Sobrepeso,5,no,southwest,5228.087201155112,Seguimiento Estándar
+014aebfdf1323608,63,male,28.31,Sobrepeso,0,no,northwest,13504.045972252217,Seguimiento Estándar
+a412a9b80b9fa757,28,male,36.4,Obesidad II,1,yes,southwest,43522.83774650276,Atención Preventiva Prioritaria
+7d05a7e29a590ead,19,male,20.425,Normal,0,no,northwest,1703.8995396484922,Seguimiento Estándar
+69b6fc537954f1c7,62,female,32.965,Obesidad I,3,no,northwest,17499.108343704735,Seguimiento Estándar
+cdc9dcf8bd7bd985,26,male,20.8,Normal,0,no,southwest,3139.571753860366,Seguimiento Estándar
+777af8beb6a7dede,35,male,36.67,Obesidad II,1,yes,northeast,41727.02595572051,Atención Preventiva Prioritaria
+c720ff9a8c165ad8,60,male,39.9,Obesidad II,0,yes,southwest,47860.330705519846,Atención Preventiva Prioritaria
+3c4591c7f91ac3c8,24,female,26.6,Sobrepeso,0,no,northeast,3936.195487750396,Seguimiento Estándar
+f7094763b8d5d1e7,31,female,36.63,Obesidad II,2,no,southeast,5258.840370948007,Seguimiento Estándar
+c2e761ce32593e65,41,male,21.78,Normal,1,no,southeast,7194.038558536474,Seguimiento Estándar
+87ddcb2dedf617b0,37,female,30.8,Obesidad I,2,no,southeast,6659.838780416605,Seguimiento Estándar
+d9bc8e4c76e5d794,38,male,37.05,Obesidad II,1,no,northeast,7106.851915327389,Seguimiento Estándar
+919b58801f49f935,55,male,37.3,Obesidad II,0,no,southwest,12412.92379815378,Seguimiento Estándar
+86c7f6c4706c5eeb,18,female,38.665,Obesidad II,2,no,northeast,4543.496731937114,Seguimiento Estándar
+f5ceb4ad0a01c242,28,female,34.77,Obesidad I,0,no,northwest,3958.539823737343,Seguimiento Estándar
+cc2e5426ff5a809b,60,female,24.53,Normal,0,no,southeast,14659.444866070406,Seguimiento Estándar
+c580644ea9bb90c0,36,male,35.2,Obesidad II,1,yes,southeast,39914.732238773155,Atención Preventiva Prioritaria
+e233dca37ff1a731,18,female,35.625,Obesidad II,0,no,northeast,2285.5431770129903,Seguimiento Estándar
+e63809ea1948316b,21,female,33.63,Obesidad I,2,no,northwest,7431.476507677219,Seguimiento Estándar
+fdb59ebbc3b2a85c,48,male,28.0,Sobrepeso,1,yes,southwest,24025.418322992813,Atención Preventiva Prioritaria
+0c28925dbfe94e60,36,male,34.43,Obesidad I,0,yes,southeast,37966.8376400538,Atención Preventiva Prioritaria
+dcf217ced156b9e3,40,female,28.69,Sobrepeso,3,no,northwest,7685.7612158561005,Seguimiento Estándar
+84e7405f87788fb4,58,male,36.955,Obesidad II,2,yes,northwest,47347.536035371384,Atención Preventiva Prioritaria
+40baa14906913d76,58,female,31.825,Obesidad I,2,no,northeast,13529.533777781551,Seguimiento Estándar
+25abd9bad463b354,18,male,31.68,Obesidad I,2,yes,southeast,34519.900291060665,Atención Preventiva Prioritaria
+6738e159d9dbeef3,53,female,22.88,Normal,1,yes,southeast,23862.263582474756,Atención Preventiva Prioritaria
+f1f771e8205ac473,34,female,37.335,Obesidad II,2,no,northwest,5988.985566096168,Seguimiento Estándar
+57255ed7de16e521,43,male,27.36,Sobrepeso,3,no,northeast,8657.753312668096,Seguimiento Estándar
+bd12075544a1df80,25,male,33.66,Obesidad I,4,no,southeast,5664.695464011321,Seguimiento Estándar
+b41dc603eafb419d,64,male,24.7,Normal,1,no,northwest,16574.63887950037,Seguimiento Estándar
+1b84da853d3fc8a4,28,female,25.935,Sobrepeso,1,no,northwest,5307.813178351315,Seguimiento Estándar
+73091a52fb4b5818,20,female,22.42,Normal,0,yes,northwest,15828.03649106394,Seguimiento Estándar
+ae973e393ac0cf13,19,female,28.9,Sobrepeso,0,no,southwest,2192.9965922756774,Seguimiento Estándar
+cefa3ccba83bb856,61,female,39.1,Obesidad II,2,no,southwest,15663.982341093111,Seguimiento Estándar
+53dbbc075a5a8878,40,male,26.315,Sobrepeso,1,no,northwest,6459.079616952041,Seguimiento Estándar
+9581d8b334ebb679,40,female,36.19,Obesidad II,0,no,southeast,7010.132121627373,Seguimiento Estándar
+41034d5ed9954a2d,28,male,23.98,Normal,3,yes,southeast,17910.757741976304,Seguimiento Estándar
+6f9f3a2e37e0f383,27,female,24.75,Normal,0,yes,southeast,18334.237708652985,Seguimiento Estándar
+d07fcc93fbc5a84d,31,male,28.5,Sobrepeso,5,no,northeast,6325.039232626926,Seguimiento Estándar
+b1a581d99e5a6736,53,female,28.1,Sobrepeso,3,no,southwest,12029.315529607633,Seguimiento Estándar
+bf880fd6d0a626e5,58,male,32.01,Obesidad I,1,no,southeast,12188.2873870294,Seguimiento Estándar
+410d2bc0b0020a67,44,male,27.4,Sobrepeso,2,no,southwest,8494.547867953546,Seguimiento Estándar
+1b7f9d693eba6010,57,male,34.01,Obesidad I,0,no,northwest,11990.902365802545,Seguimiento Estándar
+732d64d9b04b4ff2,29,female,29.59,Sobrepeso,1,no,southeast,5001.631405637117,Seguimiento Estándar
+bd842b9b19289bd0,21,male,35.53,Obesidad II,0,no,southeast,1936.3061308860576,Seguimiento Estándar
+7be14b7049182a75,22,female,39.805,Obesidad II,0,no,northeast,2307.17703512345,Seguimiento Estándar
+e4bbb78185307989,41,female,32.965,Obesidad I,0,no,northwest,7186.330073039514,Seguimiento Estándar
+4dcf2dc22682998f,31,male,26.885,Sobrepeso,1,no,northeast,4751.409250420404,Seguimiento Estándar
+631222aca4a2176b,45,female,38.285,Obesidad II,0,no,northeast,9229.652797342991,Seguimiento Estándar
+99f58a72f3cd5569,22,male,37.62,Obesidad II,1,yes,southeast,37647.98757074778,Atención Preventiva Prioritaria
+e4280db5c173710d,48,female,41.23,Obesidad III,4,no,northwest,11395.730366805143,Seguimiento Estándar
+c4bf97e5c994b62f,37,female,34.8,Obesidad I,2,yes,southwest,40024.1253604901,Atención Preventiva Prioritaria
+4571b8fb7dba5cce,45,male,22.895,Normal,2,yes,northwest,22759.561440579022,Atención Preventiva Prioritaria
+b8e5594feb050086,57,female,31.16,Obesidad I,0,yes,northwest,43777.07524020394,Atención Preventiva Prioritaria
+54c6f0f20aa25aec,56,female,27.2,Sobrepeso,0,no,southwest,12302.180068514363,Seguimiento Estándar
+75829e71e79134d5,46,female,27.74,Sobrepeso,0,no,northwest,9801.17130058657,Seguimiento Estándar
+888f01a1a24c88a8,55,female,26.98,Sobrepeso,0,no,northwest,12634.823791595545,Seguimiento Estándar
+3dc7950ac447e0e3,21,female,39.49,Obesidad II,0,no,southeast,2093.967158535726,Seguimiento Estándar
+81f7a98f6d2ecd14,53,female,24.795,Normal,1,no,northwest,12394.64752535116,Seguimiento Estándar
+8b73623282683642,59,male,29.83,Sobrepeso,3,yes,northeast,28139.54459521681,Atención Preventiva Prioritaria
+87ffbae34fb2f7e4,35,male,34.77,Obesidad I,2,no,northwest,5984.391766693251,Seguimiento Estándar
+0e9497d7e0389167,64,female,31.3,Obesidad I,2,yes,southwest,46446.937485939285,Atención Preventiva Prioritaria
+9e801bd761f70d5b,28,female,37.62,Obesidad II,1,no,southeast,4114.220953966901,Seguimiento Estándar
+37464fae24815022,54,female,30.8,Obesidad I,3,no,southwest,12581.460641431933,Seguimiento Estándar
+5d887d50e822323c,55,male,38.28,Obesidad II,0,no,southeast,11847.666163562522,Seguimiento Estándar
+b57c97a9b79386e6,56,male,19.95,Normal,0,yes,northeast,23538.069863501467,Atención Preventiva Prioritaria
+2d8d7d9cd8568816,38,male,19.3,Normal,0,yes,southwest,17140.55779696147,Seguimiento Estándar
+32a7486c75962286,41,female,31.6,Obesidad I,0,no,southwest,6837.813005206197,Seguimiento Estándar
+0c05054e68907a64,30,male,25.46,Sobrepeso,0,no,northeast,3642.168936676535,Seguimiento Estándar
+bbc0cacc4364b88a,18,female,30.115,Obesidad I,0,no,northeast,3081.8887916841154,Seguimiento Estándar
+2d8986a8bfa67ce4,61,female,29.92,Sobrepeso,3,yes,southeast,28979.00659592796,Atención Preventiva Prioritaria
+cc3e9a66078dc241,34,female,27.5,Sobrepeso,1,no,southwest,5356.667077328248,Seguimiento Estándar
+6bb101f160b8c365,20,male,28.025,Sobrepeso,1,yes,northwest,17264.129921780877,Seguimiento Estándar
+ee701159148debeb,19,female,28.4,Sobrepeso,1,no,southwest,2729.3681127804207,Seguimiento Estándar
+7b9de7930f4a199f,26,male,30.875,Obesidad I,2,no,northwest,5668.334316703475,Seguimiento Estándar
+f2e018a588f09130,29,male,27.94,Sobrepeso,0,no,southeast,3353.3537304777706,Seguimiento Estándar
+748d918972c9f841,63,male,35.09,Obesidad II,0,yes,southeast,46881.970944685774,Atención Preventiva Prioritaria
+061db89bc64f3fba,54,male,33.63,Obesidad I,1,no,northwest,11735.982744296753,Seguimiento Estándar
+c084f27611058702,55,female,29.7,Sobrepeso,2,no,southwest,12314.981268004229,Seguimiento Estándar
+2e90feb78b5f2493,37,male,30.8,Obesidad I,0,no,southwest,6468.294095153654,Seguimiento Estándar
+57178cb32b4bc28d,21,female,35.72,Obesidad II,0,no,northwest,2264.5253823572557,Seguimiento Estándar
+69ed25f555198694,52,male,32.205,Obesidad I,3,no,northeast,11866.050515529621,Seguimiento Estándar
+b14677226c698923,60,male,28.595,Sobrepeso,0,no,northeast,12916.284082870321,Seguimiento Estándar
+0cc03d360568d302,58,male,49.06,Obesidad III,0,no,southeast,12602.041021617282,Seguimiento Estándar
+15c3dc0a36724264,29,female,27.94,Sobrepeso,1,yes,southeast,18851.55489353787,Seguimiento Estándar
+0b56df7d664fdaf5,49,female,27.17,Sobrepeso,0,no,southeast,11271.152162710032,Seguimiento Estándar
+89997d971bdf2d3c,37,female,23.37,Normal,2,no,northwest,6928.9676559008085,Seguimiento Estándar
+1c49cb0753107a56,44,male,37.1,Obesidad II,2,no,southwest,8622.363056254724,Seguimiento Estándar
+e9eb8ee5a4aaf03d,18,male,23.75,Normal,0,no,northeast,1693.812933108995,Seguimiento Estándar
+f0aa813ed110101c,20,female,28.975,Sobrepeso,0,no,northwest,2276.8323175022692,Seguimiento Estándar
+64792263c77e10f7,44,male,31.35,Obesidad I,1,yes,northeast,41224.006538856134,Atención Preventiva Prioritaria
+19c4276d1ae4b4de,47,female,33.915,Obesidad I,3,no,northwest,10229.382372885064,Seguimiento Estándar
+aee408208ce4f81a,26,female,28.785,Sobrepeso,0,no,northeast,3607.851993815879,Seguimiento Estándar
+6ee6c108e4eac369,19,female,28.3,Sobrepeso,0,yes,southwest,17198.761544106866,Seguimiento Estándar
+f4e8c857b72db4a6,52,female,37.4,Obesidad II,0,no,southwest,11140.201254504445,Seguimiento Estándar
+d8a323cbd9743395,32,female,17.765,Bajo peso,2,yes,northwest,16317.690978020755,Seguimiento Estándar
+c93bc05cb7a0b8a0,38,male,34.7,Obesidad I,2,no,southwest,6972.396398435495,Seguimiento Estándar
+1472ef90be78d53f,59,female,26.505,Sobrepeso,0,no,northeast,13259.34681886521,Seguimiento Estándar
+2b822838987c2d9f,61,female,22.04,Normal,0,no,northeast,13866.357434995904,Seguimiento Estándar
+345d2e8b18b0df08,53,female,35.9,Obesidad II,2,no,southwest,12693.139072076154,Seguimiento Estándar
+309d63b07b47e15c,19,male,25.555,Sobrepeso,0,no,northwest,1831.1970661480145,Seguimiento Estándar
+7e17f481da8599b9,20,female,28.785,Sobrepeso,0,no,northeast,2261.775129509515,Seguimiento Estándar
+f619ad5b274703fc,22,female,28.05,Sobrepeso,0,no,southeast,2307.6234584436975,Seguimiento Estándar
+b2c0be16dfe7643e,19,male,34.1,Obesidad I,0,no,southwest,1900.0664708234824,Seguimiento Estándar
+04c9ed10365fed63,22,male,25.175,Sobrepeso,0,no,northwest,2104.45148596384,Seguimiento Estándar
+105978e8840d1fc5,54,female,31.9,Obesidad I,3,no,southeast,14500.888638453745,Seguimiento Estándar
+5fc91406c2817cae,22,female,36.0,Obesidad II,0,no,southwest,2220.501025914521,Seguimiento Estándar
+18727e0d17b5801c,34,male,22.42,Normal,2,no,northeast,8079.775703536402,Seguimiento Estándar
+7db4026534b1c864,26,male,32.49,Obesidad I,1,no,northeast,4277.293748255354,Seguimiento Estándar
+5e210ebd125652f7,34,male,25.3,Sobrepeso,2,yes,southeast,19169.22191113047,Seguimiento Estándar
+2edae3c5347ce84e,29,male,29.735,Sobrepeso,2,no,northwest,6143.142491094659,Seguimiento Estándar
+1f15a141e0f556e0,30,male,28.69,Sobrepeso,3,yes,northwest,19761.750716722938,Seguimiento Estándar
+15d719f34c90fe5c,29,female,38.83,Obesidad II,3,no,southeast,5236.808375360741,Seguimiento Estándar
+ff6bdba5c7315bcd,46,male,30.495,Obesidad I,3,yes,northwest,42209.20269485436,Atención Preventiva Prioritaria
+702a586992e3e3c9,51,female,37.73,Obesidad II,1,no,southeast,10240.801721699372,Seguimiento Estándar
+a2a70e1529db23de,53,female,37.43,Obesidad II,1,no,northwest,12911.152344290243,Seguimiento Estándar
+f0e00159b970ec71,19,male,28.4,Sobrepeso,1,no,southwest,2448.932874702497,Seguimiento Estándar
+731146d094cc39c4,35,male,24.13,Normal,1,no,northwest,5706.431014260389,Seguimiento Estándar
+b6d416d68fe481a1,48,male,29.7,Sobrepeso,0,no,southeast,10262.61465750351,Seguimiento Estándar
+0269fe8c4bd60a9b,32,female,37.145,Obesidad II,3,no,northeast,5733.210819025196,Seguimiento Estándar
+2fe07f632c82fbfb,42,female,23.37,Normal,0,yes,northeast,20312.332336980337,Atención Preventiva Prioritaria
+8139997c57200761,40,female,25.46,Sobrepeso,1,no,northeast,6783.817056289435,Seguimiento Estándar
+4cf1bb48b245633b,44,male,39.52,Obesidad II,0,no,northwest,8801.29063014925,Seguimiento Estándar
+d2dc8d1b4bc48ecb,48,male,24.42,Normal,0,yes,southeast,22869.993343127495,Atención Preventiva Prioritaria
+4aba5a27ef95b32c,18,male,25.175,Sobrepeso,0,yes,northeast,16091.88786997927,Seguimiento Estándar
+ba94e8b5b8967875,30,male,35.53,Obesidad II,0,yes,southeast,38455.591246529104,Atención Preventiva Prioritaria
+8f7e41eb7186a5c4,50,female,27.83,Sobrepeso,3,no,southeast,12538.934631270417,Seguimiento Estándar
+9cfdbc67d57b7f37,42,female,26.6,Sobrepeso,0,yes,northwest,22761.47520690731,Atención Preventiva Prioritaria
+837768a7f1436263,18,female,36.85,Obesidad II,0,yes,southeast,36480.90355685142,Atención Preventiva Prioritaria
+a108abec6510a172,54,male,39.6,Obesidad II,1,no,southwest,11463.562396209918,Seguimiento Estándar
+57085a382acdc666,32,female,29.8,Sobrepeso,2,no,southwest,5467.840952914723,Seguimiento Estándar
+4605046205f65e1d,37,male,29.64,Sobrepeso,0,no,northwest,6431.7980757854875,Seguimiento Estándar
+46c3ced270d72d43,47,male,28.215,Sobrepeso,4,no,northeast,10922.310334825685,Seguimiento Estándar
+ce3fe40c9c2acba9,20,female,37.0,Obesidad II,5,no,southwest,4942.843857307262,Seguimiento Estándar
+1e8755c1219809f4,32,female,33.155,Obesidad I,3,no,northwest,5994.3953190896245,Seguimiento Estándar
+5815ca81f7b91b38,19,female,31.825,Obesidad I,1,no,northwest,3061.2869089150754,Seguimiento Estándar
+06cdb969fe46bdcb,27,male,18.905,Normal,3,no,northeast,5741.713871102694,Seguimiento Estándar
+edb62290ef331632,63,male,41.47,Obesidad III,0,no,southeast,13850.978242258925,Seguimiento Estándar
+79b9f1f1818633e1,49,male,30.3,Obesidad I,0,no,southwest,9876.458129856275,Seguimiento Estándar
+7f959e55a465d785,18,male,15.96,Bajo peso,0,no,northeast,1732.751424299316,Seguimiento Estándar
+de536b6cdbf2f693,35,female,34.8,Obesidad I,1,no,southwest,5534.863377002656,Seguimiento Estándar
+8c3914f25aa6238a,24,female,33.345,Obesidad I,0,no,northwest,3879.165840784657,Seguimiento Estándar
+9b6abf27b64b62ee,63,female,37.7,Obesidad II,0,yes,southwest,47540.23021761365,Atención Preventiva Prioritaria
+dcbdd99eaf433a31,38,male,27.835,Sobrepeso,2,no,northwest,6589.905060843531,Seguimiento Estándar
+737ca3136c006873,54,male,29.2,Sobrepeso,1,no,southwest,11323.429982718517,Seguimiento Estándar
+3056d122660f2064,46,female,28.9,Sobrepeso,2,no,southwest,9968.459190722122,Seguimiento Estándar
+d2ac406774ea731f,41,female,33.155,Obesidad I,3,no,northeast,7892.886519561367,Seguimiento Estándar
+d0fc9878a38a7944,58,male,28.595,Sobrepeso,0,no,northwest,12137.403993650325,Seguimiento Estándar
+9a4c27d472b8674c,18,female,38.28,Obesidad II,0,no,southeast,1925.489131276538,Seguimiento Estándar
+980dddf45430fdf4,22,male,19.95,Normal,3,no,northeast,4060.3951441867966,Seguimiento Estándar
+bd3b76f16d8aca9b,44,female,26.41,Sobrepeso,0,no,northwest,7793.3827458142705,Seguimiento Estándar
+69f05dc9a2a908e8,44,male,30.69,Obesidad I,2,no,southeast,9315.260391615224,Seguimiento Estándar
+4394dff58e33a07a,36,male,41.895,Obesidad III,3,yes,northeast,42845.1268229989,Atención Preventiva Prioritaria
+aa7d869910a853de,26,female,29.92,Sobrepeso,2,no,southeast,5222.473096636615,Seguimiento Estándar
+27084940dc9811c3,30,female,30.9,Obesidad I,3,no,southwest,5283.6041023128355,Seguimiento Estándar
+b39df37dd97e4f57,41,female,32.2,Obesidad I,1,no,southwest,7270.498941301016,Seguimiento Estándar
+3fcbb54fee68c5e8,29,female,32.11,Obesidad I,2,no,northwest,5699.481032911783,Seguimiento Estándar
+7fbe2d051253dffe,61,male,31.57,Obesidad I,0,no,southeast,13437.227052888871,Seguimiento Estándar
+2464292b9cd390a8,36,female,26.2,Sobrepeso,0,no,southwest,5053.967197143672,Seguimiento Estándar
+364c2eb9df2069c7,25,male,25.74,Sobrepeso,0,no,southeast,3057.5450841715187,Seguimiento Estándar
+d63355361d0613ed,56,female,26.6,Sobrepeso,1,no,northwest,12598.614969616398,Seguimiento Estándar
+ac8534abd9fdaf55,18,male,34.43,Obesidad I,0,no,southeast,1586.9104456622647,Seguimiento Estándar
+55ab841b314a0086,19,male,30.59,Obesidad I,0,no,northwest,2019.9738697472565,Seguimiento Estándar
+5f5bf9035aa4af43,39,female,32.8,Obesidad I,0,no,southwest,6773.757471826106,Seguimiento Estándar
+e7335b1ac260c18e,45,female,28.6,Sobrepeso,2,no,southeast,9413.269282953155,Seguimiento Estándar
+f7dd6d2d6b3a2f90,51,female,18.05,Bajo peso,0,no,northwest,8517.090549265647,Seguimiento Estándar
+dbb59880233706ca,64,female,39.33,Obesidad II,0,no,northeast,14165.078977312802,Seguimiento Estándar
+ceeb9ee4a7d6c99c,19,female,32.11,Obesidad I,0,no,northwest,2418.5992013271166,Seguimiento Estándar
+c52b486355549e3b,48,female,32.23,Obesidad I,1,no,southeast,9921.147167340961,Seguimiento Estándar
+18641204fccec1b6,60,female,24.035,Normal,0,no,northwest,13775.77256653428,Seguimiento Estándar
+9aa68d42dbb135e7,27,female,36.08,Obesidad II,0,yes,southeast,37592.31368484782,Atención Preventiva Prioritaria
+239c6a002322fdd2,46,male,22.3,Normal,0,no,southwest,7899.967454034902,Seguimiento Estándar
+21b8523c06d7cae8,28,female,28.88,Sobrepeso,1,no,northeast,5159.007825317941,Seguimiento Estándar
+56b74eef305355b2,59,male,26.4,Sobrepeso,0,no,southeast,12894.01810776334,Seguimiento Estándar
+8ebf51a54fae71a6,35,male,27.74,Sobrepeso,2,yes,northeast,20028.636626973093,Atención Preventiva Prioritaria
+909b6a78a9a18e47,63,female,31.8,Obesidad I,0,no,southwest,13515.937566795557,Seguimiento Estándar
+d96819088acd5532,40,male,41.23,Obesidad III,1,no,northeast,7545.02149990468,Seguimiento Estándar
+d293b224d31cca13,20,male,33.0,Obesidad I,1,no,southwest,3402.0717724070896,Seguimiento Estándar
+f0f2ab8aaa9ecbd1,40,male,30.875,Obesidad I,4,no,northwest,8394.293831257324,Seguimiento Estándar
+4fbf99adb2a990c4,24,male,28.5,Sobrepeso,2,no,northwest,5480.712632359873,Seguimiento Estándar
+e3a9ea246785a72e,34,female,26.73,Sobrepeso,1,no,southeast,5358.271492636279,Seguimiento Estándar
+d29d13b5d2d08112,45,female,30.9,Obesidad I,2,no,southwest,8908.308877214567,Seguimiento Estándar
+ed6a6b9937dab7cc,41,female,37.1,Obesidad II,2,no,southwest,7506.9529393111325,Seguimiento Estándar
+b18ccd0b1f4f2be4,53,female,26.6,Sobrepeso,0,no,northwest,12006.564292435949,Seguimiento Estándar
+41a8f6a938d36284,27,male,23.1,Normal,0,no,southeast,3137.1056694038743,Seguimiento Estándar
+6451ec6dee924945,26,female,29.92,Sobrepeso,1,no,southeast,4631.5432909601695,Seguimiento Estándar
+a9e78416c4936ebc,24,female,23.21,Normal,0,no,southeast,4665.601885337637,Seguimiento Estándar
+f3e4b6052566f80e,34,female,33.7,Obesidad I,1,no,southwest,5653.238335277063,Seguimiento Estándar
+454c7af2fab96a9e,53,female,33.25,Obesidad I,0,no,northeast,12000.124643762434,Seguimiento Estándar
+7635350f091c7346,32,male,30.8,Obesidad I,3,no,southwest,5403.025454679508,Seguimiento Estándar
+42f8f49f7c5619e3,19,male,34.8,Obesidad I,0,yes,southwest,35232.9377445211,Atención Preventiva Prioritaria
+c44b7d6fe8c20b1e,42,male,24.64,Normal,0,yes,southeast,21389.580058169795,Atención Preventiva Prioritaria
+bfca1411d3576696,55,male,33.88,Obesidad I,3,no,southeast,13329.132485940141,Seguimiento Estándar
+f9f06ce79c82a5ef,28,male,38.06,Obesidad II,0,no,southeast,3410.025486068201,Seguimiento Estándar
+769c4bdaf278543d,58,female,41.91,Obesidad III,0,no,southeast,13284.621749687669,Seguimiento Estándar
+19ad1e766ea5202c,41,female,31.635,Obesidad I,1,no,northeast,7159.759479655588,Seguimiento Estándar
+7d199fbe006435bd,47,male,25.46,Sobrepeso,2,no,northeast,9941.315932669138,Seguimiento Estándar
+c4e11aa9c6b375c6,42,female,36.195,Obesidad II,1,no,northwest,7551.728397766564,Seguimiento Estándar
+f1d34a3d43d1946e,59,female,27.83,Sobrepeso,3,no,southeast,14500.742338731914,Seguimiento Estándar
+94f714048284555e,19,female,17.8,Bajo peso,0,no,southwest,1842.6780782325657,Seguimiento Estándar
+4e186c9cf46e7aea,59,male,27.5,Sobrepeso,1,no,southwest,13165.37561788587,Seguimiento Estándar
+30e9304b75c32389,39,male,24.51,Normal,2,no,northwest,7114.475921883296,Seguimiento Estándar
+9b43c5281a215727,40,female,22.22,Normal,2,yes,southeast,19041.15063930709,Seguimiento Estándar
+634f1cfd9edb9f8c,18,female,26.73,Sobrepeso,0,no,southeast,2160.5112182753,Seguimiento Estándar
+5186995d5fd372d8,31,male,38.39,Obesidad II,2,no,southeast,5345.890010412984,Seguimiento Estándar
+9ac5b817e61453eb,19,male,29.07,Sobrepeso,0,yes,northwest,17195.584584591827,Seguimiento Estándar
+cd5bcb65228fe1cd,44,male,38.06,Obesidad II,1,no,southeast,8610.378910792968,Seguimiento Estándar
+5fa74760ed08394b,23,female,36.67,Obesidad II,2,yes,northeast,37435.027046075724,Atención Preventiva Prioritaria
+06de73e679678d1e,33,female,22.135,Normal,1,no,northeast,6277.4253106481465,Seguimiento Estándar
+714acec794c1719c,55,female,26.8,Sobrepeso,1,no,southwest,13493.574246836924,Seguimiento Estándar
+00258a13ef96f4ed,40,male,35.3,Obesidad II,3,no,southwest,7855.898543116768,Seguimiento Estándar
+f522d1382865c6af,63,female,27.74,Sobrepeso,0,yes,northeast,28061.535731057098,Atención Preventiva Prioritaria
+aff54136b5db3f7d,54,male,30.02,Obesidad I,0,no,northwest,11974.407344887539,Seguimiento Estándar
+b5359f999ba9a9d6,60,female,38.06,Obesidad II,0,no,southeast,13906.322245967027,Seguimiento Estándar
+9487b3340f4d7d6c,24,male,35.86,Obesidad II,0,no,southeast,2547.7803421063527,Seguimiento Estándar
+fad3a4763fd9aacf,19,male,20.9,Normal,1,no,southwest,2043.0546325704847,Seguimiento Estándar
+6e023b0b8ad81931,29,male,28.975,Sobrepeso,1,no,northeast,4683.594835671263,Seguimiento Estándar
+72f3ec43d68fbdc1,18,male,17.29,Bajo peso,2,yes,northeast,13969.583883074924,Seguimiento Estándar
+7100f6a9afe4027d,63,female,32.2,Obesidad I,2,yes,southwest,46752.389556972536,Atención Preventiva Prioritaria
+786291c6890cd10b,54,male,34.21,Obesidad I,2,yes,southeast,44212.528097914226,Atención Preventiva Prioritaria
+2a1178ab9e4dbe26,27,male,30.3,Obesidad I,3,no,southwest,5116.854634420871,Seguimiento Estándar
+aff51d0869d23880,50,male,31.825,Obesidad I,0,yes,northeast,42400.2375681162,Atención Preventiva Prioritaria
+05f86d9cfd2c94e0,55,female,25.365,Sobrepeso,3,no,northeast,13402.52785882847,Seguimiento Estándar
+6a665f19690a624f,56,male,33.63,Obesidad I,0,yes,northwest,44575.7738161419,Atención Preventiva Prioritaria
+98d9a1d14a0717c3,38,female,40.15,Obesidad III,0,no,southeast,6110.907372873016,Seguimiento Estándar
+43aea183d4567a1d,51,male,24.415,Normal,4,no,northwest,11896.239913305675,Seguimiento Estándar
+de76f9c355a30605,19,male,31.92,Obesidad I,0,yes,northwest,34371.340573987654,Atención Preventiva Prioritaria
+b61ebe8aef51b2b7,58,female,25.2,Sobrepeso,0,no,southwest,12623.891806619922,Seguimiento Estándar
+e7b71f741080c767,20,female,26.84,Sobrepeso,1,yes,southeast,18207.69720241274,Seguimiento Estándar
+938192898d480c04,52,male,24.32,Normal,3,yes,northeast,24563.537947558576,Atención Preventiva Prioritaria
+2f7b62fe5e2c4567,19,male,36.955,Obesidad II,0,yes,northwest,36531.90393108123,Atención Preventiva Prioritaria
+7fce9b7bccb2a3b8,53,female,38.06,Obesidad II,3,no,southeast,15417.833296054643,Seguimiento Estándar
+f3ab0bef667f30c1,46,male,42.35,Obesidad III,3,yes,southeast,45617.83772640321,Atención Preventiva Prioritaria
+312f72a84f7f443f,40,male,19.8,Normal,1,yes,southeast,17865.068197804725,Seguimiento Estándar
+cfd3643c49bcb655,59,female,32.395,Obesidad I,3,no,northeast,14984.116690592951,Seguimiento Estándar
+21a355df3c9712db,45,male,30.2,Obesidad I,1,no,southwest,8479.364396528637,Seguimiento Estándar
+0bb27117f337e905,49,male,25.84,Sobrepeso,1,no,northeast,10231.48777085128,Seguimiento Estándar
+660ea7a1d6c6b289,18,male,29.37,Sobrepeso,1,no,southeast,2554.251130656297,Seguimiento Estándar
+7db0c2d0c7c03619,50,male,34.2,Obesidad I,2,yes,southwest,42701.611804358465,Atención Preventiva Prioritaria
+02aa97811c812b43,41,male,37.05,Obesidad II,2,no,northwest,7582.712830072501,Seguimiento Estándar
+900978fb2a60cc6c,50,male,27.455,Sobrepeso,1,no,northeast,11173.55829167376,Seguimiento Estándar
+cfa792945c706010,25,male,27.55,Sobrepeso,0,no,northwest,3065.1387270157074,Seguimiento Estándar
+41167d4a864bd50f,47,female,26.6,Sobrepeso,2,no,northeast,10138.09892327191,Seguimiento Estándar
+7897d0f81abdf5e3,19,male,20.615,Normal,2,no,northwest,4398.797575959824,Seguimiento Estándar
+6ae63e3e0c697ea3,22,female,24.3,Normal,0,no,southwest,2204.9047977142127,Seguimiento Estándar
+ea23e175a2e7db28,59,male,31.79,Obesidad I,2,no,southeast,13995.45983772133,Seguimiento Estándar
+05c9ed89c9677d3e,51,female,21.56,Normal,1,no,southeast,10235.277357306264,Seguimiento Estándar
+de2540400152a500,40,female,28.12,Sobrepeso,1,yes,northeast,21888.166350043604,Atención Preventiva Prioritaria
+d97cefa19506afea,54,male,40.565,Obesidad III,3,yes,northeast,47636.53222588701,Atención Preventiva Prioritaria
+faeda47ef06e0080,30,male,27.645,Sobrepeso,1,no,northeast,4730.3109806108105,Seguimiento Estándar
+8b7bed11d7f2d4d4,55,female,32.395,Obesidad I,1,no,northeast,12187.182279936436,Seguimiento Estándar
+7c58579a5d2a707b,52,female,31.2,Obesidad I,0,no,southwest,11327.283947628322,Seguimiento Estándar
+ffe069000d0bdf54,46,male,26.62,Sobrepeso,1,no,southeast,8733.591578393349,Seguimiento Estándar
+329096a8b46d1789,46,female,48.07,Obesidad III,2,no,northeast,9574.850825705207,Seguimiento Estándar
+77c4c88c2d271145,63,female,26.22,Sobrepeso,0,no,northwest,14107.144441998378,Seguimiento Estándar
+276b5e4f5dde1fa3,59,female,36.765,Obesidad II,1,yes,northeast,47735.413593445526,Atención Preventiva Prioritaria
+7ecc3aaca1e511c1,52,male,26.4,Sobrepeso,3,no,southeast,12396.478983811867,Seguimiento Estándar
+cbc73619601d1ba8,28,female,33.4,Obesidad I,0,no,southwest,4124.708710889827,Seguimiento Estándar
+81905bf18716c59e,29,male,29.64,Sobrepeso,1,no,northeast,4825.255881864402,Seguimiento Estándar
+6f82ea49f53c6f6d,25,male,45.54,Obesidad III,2,yes,southeast,41988.2398434918,Atención Preventiva Prioritaria
+9679f05bf6aecd76,22,female,28.82,Sobrepeso,0,no,southeast,2435.7198059901,Seguimiento Estándar
+0bcdb47d4d0bd101,25,male,26.8,Sobrepeso,3,no,southwest,4829.518897394073,Seguimiento Estándar
+bba10541b75e694a,18,male,22.99,Normal,0,no,northeast,1680.5383415671852,Seguimiento Estándar
+acc8a63af1d0992e,19,male,27.7,Sobrepeso,0,yes,southwest,17012.96103979579,Seguimiento Estándar
+56e9fc3c816685a0,47,male,25.41,Sobrepeso,1,yes,southeast,23178.124817015385,Atención Preventiva Prioritaria
+9f62f540803aa8e5,31,male,34.39,Obesidad I,3,yes,northwest,40468.07014744708,Atención Preventiva Prioritaria
+a575c5e7d40480a9,48,female,28.88,Sobrepeso,1,no,northwest,10403.863666587406,Seguimiento Estándar
+38c8ee70adf9ec3e,36,male,27.55,Sobrepeso,3,no,northeast,6415.482508139112,Seguimiento Estándar
+19e9e381d46b59e6,53,female,22.61,Normal,3,yes,northeast,24386.70591870511,Atención Preventiva Prioritaria
+6a1cfa048379e2c5,56,female,37.51,Obesidad II,2,no,southeast,14579.582449989024,Seguimiento Estándar
+3ad06455917e9ed4,28,female,33.0,Obesidad I,2,no,southeast,4975.772630847334,Seguimiento Estándar
+d5643aeb45fbc2d7,57,female,38.0,Obesidad II,2,no,southwest,13783.386582379017,Seguimiento Estándar
+52c43a4d6090bc1a,29,male,33.345,Obesidad I,2,no,northwest,6259.410476353934,Seguimiento Estándar
+43b9ebe18a2d175a,28,female,27.5,Sobrepeso,2,no,southwest,5245.291280245146,Seguimiento Estándar
+a74be1e88b9657cd,30,female,33.33,Obesidad I,1,no,southeast,4885.001552519615,Seguimiento Estándar
+57c288cf1b9794f6,58,male,34.865,Obesidad I,0,no,northeast,12273.536032258078,Seguimiento Estándar
+13b217d5be74f027,41,female,33.06,Obesidad I,2,no,northwest,7791.748027707379,Seguimiento Estándar
+16da28e7f02faf8f,50,male,26.6,Sobrepeso,0,no,southwest,11026.731290910022,Seguimiento Estándar
+6c93fc60923e381d,19,female,24.7,Normal,0,no,southwest,1999.4915229936485,Seguimiento Estándar
+265814d3d604729f,43,male,35.97,Obesidad II,3,yes,southeast,41820.12896100315,Atención Preventiva Prioritaria
+8b9c536a90785c64,49,male,35.86,Obesidad II,0,no,southeast,9635.19952708754,Seguimiento Estándar
+bf8a1171e0bbdeb7,27,female,31.4,Obesidad I,0,yes,southwest,34818.90344190201,Atención Preventiva Prioritaria
+dd12119b0835b8ff,52,male,33.25,Obesidad I,0,no,northeast,11000.267073865974,Seguimiento Estándar
+552c5c82aeec882e,50,male,32.205,Obesidad I,0,no,northwest,10335.90897937269,Seguimiento Estándar
+dba603c42611e6cb,54,male,32.775,Obesidad I,0,no,northeast,11526.84687795381,Seguimiento Estándar
+7ecc2a4d66695b15,44,female,27.645,Sobrepeso,0,no,northwest,7815.8407219421715,Seguimiento Estándar
+0874846b41689395,32,male,37.335,Obesidad II,1,no,northeast,5110.382289569528,Seguimiento Estándar
+3b8b9bbd4d702ddf,34,male,25.27,Sobrepeso,1,no,northwest,5499.107164609777,Seguimiento Estándar
+dbc6efbc929938be,26,female,29.64,Sobrepeso,4,no,northeast,7218.523928985252,Seguimiento Estándar
+48418e4fcde26296,34,male,30.8,Obesidad I,0,yes,southwest,37174.38031227282,Atención Preventiva Prioritaria
+4800f1d65adcaa04,57,male,40.945,Obesidad III,0,no,northeast,12607.047887665496,Seguimiento Estándar
+0d564fd94e8286ed,29,male,27.2,Sobrepeso,0,no,southwest,3347.736609552163,Seguimiento Estándar
+83786205a3bb7a43,40,male,34.105,Obesidad I,1,no,northeast,7511.432849219571,Seguimiento Estándar
+9d7fdfe533b78ff2,27,female,23.21,Normal,1,no,southeast,4847.390411385122,Seguimiento Estándar
+de179843979806f4,45,male,36.48,Obesidad II,2,yes,northwest,43288.189328766704,Atención Preventiva Prioritaria
+95ad17c5efb789fd,64,female,33.8,Obesidad I,1,yes,southwest,46757.57489447826,Atención Preventiva Prioritaria
+691a1eec39a4e240,52,male,36.7,Obesidad II,0,no,southwest,10585.793210152864,Seguimiento Estándar
+22291499bbf94dc4,61,female,36.385,Obesidad II,1,yes,northeast,47936.030889311456,Atención Preventiva Prioritaria
+8a482d9354bc6b1f,52,male,27.36,Sobrepeso,0,yes,northwest,24680.5801038937,Atención Preventiva Prioritaria
+1b19418e4a0c9e75,61,female,31.16,Obesidad I,0,no,northwest,13406.83608635764,Seguimiento Estándar
+c7373647aa1361e0,56,female,28.785,Sobrepeso,0,no,northeast,12206.516649380652,Seguimiento Estándar
+e8c828d8a38d11ff,43,female,35.72,Obesidad II,2,no,northeast,9394.729310874975,Seguimiento Estándar
+d84a3fbaa932e546,64,male,34.5,Obesidad I,0,no,southwest,13937.62836395687,Seguimiento Estándar
+f679c28845c041ed,60,male,25.74,Sobrepeso,0,no,southeast,13669.790580617388,Seguimiento Estándar
+f668ac816d840077,62,male,27.55,Sobrepeso,1,no,northwest,14619.308618349445,Seguimiento Estándar
+35255cd53e4ad79b,50,male,32.3,Obesidad I,1,yes,northeast,42072.23995304894,Atención Preventiva Prioritaria
+fa2082972e855895,46,female,27.72,Sobrepeso,1,no,southeast,9702.323020525911,Seguimiento Estándar
+9a049cb686337690,24,female,27.6,Sobrepeso,0,no,southwest,4790.414665615246,Seguimiento Estándar
+7ae047d2e97242c0,62,male,30.02,Obesidad I,0,no,northwest,13408.744015546827,Seguimiento Estándar
+7ec3cd9ac541e3e8,60,female,27.55,Sobrepeso,0,no,northeast,13337.26324764413,Seguimiento Estándar
+7de35833110af85d,63,male,36.765,Obesidad II,0,no,northeast,13973.796884131942,Seguimiento Estándar
+870c729e1a35f928,49,female,41.47,Obesidad III,4,no,southeast,10875.564651009292,Seguimiento Estándar
+8653e1c6b3da7068,34,female,29.26,Sobrepeso,3,no,southeast,6198.032964481285,Seguimiento Estándar
+f7bef17f7fc0fcff,33,male,35.75,Obesidad II,2,no,southeast,5608.373855435894,Seguimiento Estándar
+a9d3ec5eaae4111a,46,male,33.345,Obesidad I,1,no,northeast,8794.666157184762,Seguimiento Estándar
+a0841637dafe47f0,36,female,29.92,Sobrepeso,1,no,southeast,5528.714798449937,Seguimiento Estándar
+953a9846255ba3a0,19,male,27.835,Sobrepeso,0,no,northwest,1945.3656346199136,Seguimiento Estándar
+be04b73cd72cd526,57,female,23.18,Normal,0,no,northwest,12352.440733409923,Seguimiento Estándar
+030f7758a855324d,50,female,25.6,Sobrepeso,0,no,southwest,11886.711414743999,Seguimiento Estándar
+ee4b2dd537d082b6,30,female,27.7,Sobrepeso,0,no,southwest,3996.3984781685394,Seguimiento Estándar
+2801810c02e4d80d,33,male,35.245,Obesidad II,0,no,northeast,4756.825143035899,Seguimiento Estándar
+f5f9677eeb0c42bd,18,female,38.28,Obesidad II,0,no,southeast,1925.489131276538,Seguimiento Estándar
+37ad118f7e3d2fff,46,male,27.6,Sobrepeso,0,no,southwest,11063.30394444584,Seguimiento Estándar
+8cf27cf7c04366cf,46,male,43.89,Obesidad III,3,no,southeast,9099.206834489394,Seguimiento Estándar
+2f7dd7d01abf85d1,47,male,29.83,Sobrepeso,3,no,northwest,10045.395261398759,Seguimiento Estándar
+e20d755307a5d05d,23,male,41.91,Obesidad III,0,no,southeast,2718.197723901381,Seguimiento Estándar
+d9def57de1d0a679,18,female,20.79,Normal,0,no,southeast,1969.4752991806508,Seguimiento Estándar
+017d0295f14dbb18,48,female,32.3,Obesidad I,2,no,northeast,10363.639306981066,Seguimiento Estándar
+d9fad517dc6629de,35,male,30.5,Obesidad I,1,no,southwest,5512.88973956551,Seguimiento Estándar
+64100cf1c1a5c1cc,19,female,21.7,Normal,0,yes,southwest,14843.606853820545,Seguimiento Estándar
+d08b8ad7866ba832,21,female,26.4,Sobrepeso,1,no,southwest,2788.111362177214,Seguimiento Estándar
+e6f87672485267b4,21,female,21.89,Normal,2,no,southeast,3918.2977894279456,Seguimiento Estándar
+4c8d41479006666b,49,female,30.78,Obesidad I,1,no,northeast,10181.618227608073,Seguimiento Estándar
+ad76ca7cc7da42dd,56,female,32.3,Obesidad I,3,no,northeast,13677.345763324067,Seguimiento Estándar
+dfef5400af644ab7,42,female,24.985,Normal,2,no,northwest,7454.309286054879,Seguimiento Estándar
+fcb1355e27dec221,44,male,32.015,Obesidad I,2,no,northwest,8854.327820473314,Seguimiento Estándar
+a0b3419e53ef32e4,18,male,30.4,Obesidad I,3,no,northeast,4804.670325542899,Seguimiento Estándar
+6fba2e96af28a2ca,61,female,21.09,Normal,0,no,northwest,13497.605811762964,Seguimiento Estándar
+20ef237493630e58,57,female,22.23,Normal,0,no,northeast,11941.386750511958,Seguimiento Estándar
+cbf8e6789be9664d,42,female,33.155,Obesidad I,1,no,northeast,7479.679854297631,Seguimiento Estándar
+dd794fbf52b8def7,26,male,32.9,Obesidad I,2,yes,southwest,36244.32134135495,Atención Preventiva Prioritaria
+bb003bc67bd4408b,20,male,33.33,Obesidad I,0,no,southeast,2535.7756034309286,Seguimiento Estándar
+22ff506dfb88fe6d,23,female,28.31,Sobrepeso,0,yes,northwest,18195.15253042499,Seguimiento Estándar
+b2bd5d35a1dc9a04,39,female,24.89,Normal,3,yes,northeast,20195.65767918362,Atención Preventiva Prioritaria
+1077bd942ea9c74a,24,male,40.15,Obesidad III,0,yes,southeast,38559.54116545294,Atención Preventiva Prioritaria
+d1966ec185ae2edd,64,female,30.115,Obesidad I,3,no,northwest,15888.009003119725,Seguimiento Estándar
+3013a150d9e390e2,62,male,31.46,Obesidad I,1,no,southeast,16223.365459980014,Seguimiento Estándar
+82aa63a12c82c68a,27,female,17.955,Bajo peso,2,yes,northeast,15195.145066120373,Seguimiento Estándar
+f8d056c26d5412b0,55,male,30.685,Obesidad I,0,yes,northeast,43348.88723453629,Atención Preventiva Prioritaria
+8ec70a54e5903d39,55,male,33.0,Obesidad I,0,no,southeast,11604.158785926393,Seguimiento Estándar
+1ce65fdbcd2c8f78,35,female,43.34,Obesidad III,2,no,southeast,5959.815795437402,Seguimiento Estándar
+5be2105e7122a936,44,male,22.135,Normal,2,no,northeast,8341.436265955817,Seguimiento Estándar
+352659d324f126be,19,male,34.4,Obesidad I,0,no,southwest,1799.207668682602,Seguimiento Estándar
+1f280299c4777661,58,female,39.05,Obesidad II,0,no,southeast,12881.375242210126,Seguimiento Estándar
+52fdf49181f17785,50,male,25.365,Sobrepeso,2,no,northwest,13109.894630445127,Seguimiento Estándar
+eac0b78e02dca74a,26,female,22.61,Normal,0,no,northwest,3597.8684643954384,Seguimiento Estándar
+22a2cb09e01dd910,24,female,30.21,Obesidad I,3,no,northwest,6037.941646450621,Seguimiento Estándar
+5f086e321002208f,48,male,35.625,Obesidad II,4,no,northeast,10656.715532242888,Seguimiento Estándar
+a51f0c568c0bfc89,19,female,37.43,Obesidad II,0,no,northwest,2258.562048477243,Seguimiento Estándar
+785378f90f3ab251,48,male,31.445,Obesidad I,1,no,northeast,9781.54919375735,Seguimiento Estándar
+3dac6fb5295f01ad,49,male,31.35,Obesidad I,1,no,northeast,9861.147422070011,Seguimiento Estándar
+8e6a7082d61fff22,46,female,32.3,Obesidad I,2,no,northeast,9343.980014139632,Seguimiento Estándar
+e145074214c109ef,46,male,19.855,Normal,0,no,northwest,7783.632942808231,Seguimiento Estándar
+5e260ac3eec1a8cb,43,female,34.4,Obesidad I,3,no,southwest,8815.92700054102,Seguimiento Estándar
+214b8ad26ec5c26f,21,male,31.02,Obesidad I,0,no,southeast,2851.553748639036,Seguimiento Estándar
+a16e6857a216ab79,64,male,25.6,Sobrepeso,2,no,southwest,15208.475172242206,Seguimiento Estándar
+1a4762679af9f8f0,18,female,38.17,Obesidad II,0,no,southeast,1910.7103133133562,Seguimiento Estándar
+76bfb5cc107d92b9,51,female,20.6,Normal,0,no,southwest,9115.021601758865,Seguimiento Estándar
+93adf0ac48876b95,47,male,47.52,Obesidad III,1,no,southeast,8968.875337296886,Seguimiento Estándar
+1ee1b63135cc7f9a,64,female,32.965,Obesidad I,0,no,northwest,13924.194994231735,Seguimiento Estándar
+84882e9c16458334,49,male,32.3,Obesidad I,3,no,northwest,10363.640600277502,Seguimiento Estándar
+1693ff85f91b8a7b,31,male,20.4,Normal,0,no,southwest,3833.038249974435,Seguimiento Estándar
+863018f85ac08da7,52,female,38.38,Obesidad II,2,no,northeast,13490.227749941496,Seguimiento Estándar
+5ad1dd3f7dae7e60,33,female,24.31,Normal,0,no,southeast,4623.696369301669,Seguimiento Estándar
+94299122046d3a2c,47,female,23.6,Normal,1,no,southwest,10229.365768196312,Seguimiento Estándar
+bcf4b1a96c5b9a97,38,male,21.12,Normal,3,no,southeast,7193.113310918696,Seguimiento Estándar
+9f562225787764af,32,male,30.03,Obesidad I,1,no,southeast,4819.657288585925,Seguimiento Estándar
+a0a97ba8b8951676,19,male,17.48,Bajo peso,0,no,northwest,1778.457328545121,Seguimiento Estándar
+1393634578589c2b,44,female,20.235,Normal,1,yes,northeast,19507.70600420679,Seguimiento Estándar
+b540cdd7e427936e,26,female,17.195,Bajo peso,2,yes,northeast,14754.963791822787,Seguimiento Estándar
+35098b6b977250a6,25,male,23.9,Normal,5,no,southwest,5758.608461674307,Seguimiento Estándar
+b5f4efa885392fcb,19,female,35.15,Obesidad II,0,no,northwest,2141.304100415523,Seguimiento Estándar
+f8d4b938b014125b,43,female,35.64,Obesidad II,1,no,southeast,8539.719990594156,Seguimiento Estándar
+4e5dd711105f6bd4,52,male,34.1,Obesidad I,0,no,southeast,10827.604373239037,Seguimiento Estándar
+8eb83b20e4ed2f16,36,female,22.6,Normal,2,yes,southwest,18205.973839997587,Seguimiento Estándar
+1e1da10a99d00de3,64,male,39.16,Obesidad II,1,no,southeast,15035.659795364925,Seguimiento Estándar
+f0b7788898f7919e,63,female,26.98,Sobrepeso,0,yes,northwest,28132.999155811503,Atención Preventiva Prioritaria
+16f3ca86f0810044,64,male,33.88,Obesidad I,0,yes,southeast,46607.47317138425,Atención Preventiva Prioritaria
+e707fe39472fb171,61,male,35.86,Obesidad II,0,yes,southeast,46792.0782059778,Atención Preventiva Prioritaria
+514f841e8723ca43,40,male,32.775,Obesidad I,1,yes,northeast,39510.986636155365,Atención Preventiva Prioritaria
+834de75af4cda6a9,25,male,30.59,Obesidad I,0,no,northeast,2933.60638891492,Seguimiento Estándar
+8929e8dd14e9aed1,48,male,30.2,Obesidad I,2,no,southwest,9830.888503033662,Seguimiento Estándar
+8958ca6e4dba2749,45,male,24.31,Normal,5,no,southeast,9333.283058835537,Seguimiento Estándar
+d5e6dfdc95228042,38,female,27.265,Sobrepeso,1,no,northeast,6202.462636916025,Seguimiento Estándar
+822a57eac07e02bc,18,female,29.165,Sobrepeso,0,no,northeast,2619.4209300367415,Seguimiento Estándar
+4fc7bf6ff8cc8a39,21,female,16.815,Bajo peso,1,no,northeast,2660.426081958949,Seguimiento Estándar
+0aaf8bf80ae9e881,27,female,30.4,Obesidad I,3,no,northwest,6559.760368706789,Seguimiento Estándar
+6c0db53624844e69,19,male,33.1,Obesidad I,0,no,southwest,2734.0705669571657,Seguimiento Estándar
+fa3de1869fea3539,29,female,20.235,Normal,2,no,northwest,6217.840476136347,Seguimiento Estándar
+9911fef96c1f454d,42,male,26.9,Sobrepeso,0,no,southwest,7020.741340171694,Seguimiento Estándar
+30ad4f9722f4f61a,60,female,30.5,Obesidad I,0,no,southwest,12932.862703674016,Seguimiento Estándar
+bd0db0835c1c159c,31,male,28.595,Sobrepeso,1,no,northwest,4805.763506598043,Seguimiento Estándar
+f7f4c2d4155d86dc,60,male,33.11,Obesidad I,3,no,southeast,16821.245572378368,Seguimiento Estándar
+7bb443d42005d2b6,22,male,31.73,Obesidad I,0,no,northeast,2723.196858438696,Seguimiento Estándar
+589967f3c5eddf2d,35,male,28.9,Sobrepeso,3,no,southwest,6323.008481267567,Seguimiento Estándar
+f5aea49063184474,52,female,46.75,Obesidad III,5,no,southeast,13295.986913802863,Seguimiento Estándar
+a0d85f07a22a2130,26,male,29.45,Sobrepeso,0,no,northeast,2978.1706586375576,Seguimiento Estándar
+45c98123fa0226f8,31,female,32.68,Obesidad I,1,no,northwest,5144.61169124287,Seguimiento Estándar
+cd53c2d19fdb1262,33,female,33.5,Obesidad I,0,yes,southwest,37561.38522296271,Atención Preventiva Prioritaria
+41487a6800a565f8,18,male,43.01,Obesidad III,0,no,southeast,1625.6987011422004,Seguimiento Estándar
+ff43fbe524eb4dce,59,female,36.52,Obesidad II,1,no,southeast,16368.555648045229,Seguimiento Estándar
+3baa0480999bb7c5,56,male,26.695,Sobrepeso,1,yes,northwest,26288.00387864629,Atención Preventiva Prioritaria
+882ec69d66a04b0a,45,female,33.1,Obesidad I,0,no,southwest,8850.443442514914,Seguimiento Estándar
+dafc518845cd2143,60,male,29.64,Sobrepeso,0,no,northeast,12908.234073516729,Seguimiento Estándar
+0cacdc7e78dbc09b,56,female,25.65,Sobrepeso,0,no,northwest,12312.26178585718,Seguimiento Estándar
+0137831b7fac261a,40,female,29.6,Sobrepeso,0,no,southwest,6909.234388324419,Seguimiento Estándar
+8afc1163654af29e,35,male,38.6,Obesidad II,1,no,southwest,6119.700379240145,Seguimiento Estándar
+e6cf3c3f87c75b26,39,male,29.6,Sobrepeso,4,no,southwest,8534.297824017975,Seguimiento Estándar
+c72489a8283edce8,30,male,24.13,Normal,1,no,northwest,5484.423264475401,Seguimiento Estándar
+e3b63de963895d5b,24,male,23.4,Normal,0,no,southwest,2726.0960762463587,Seguimiento Estándar
+66e157d222cb7252,20,male,29.735,Sobrepeso,0,no,northwest,2032.9396808766921,Seguimiento Estándar
+6c5a4cc34a225376,32,male,46.53,Obesidad III,2,no,southeast,4999.524544672186,Seguimiento Estándar
+afba937d300077ba,59,male,37.4,Obesidad II,0,no,southwest,14295.09989310052,Seguimiento Estándar
+3b13fe437b12c233,55,female,30.14,Obesidad I,2,no,southeast,13048.518324433959,Seguimiento Estándar
+32133a4072794ef2,57,female,30.495,Obesidad I,0,no,northwest,12241.891054368398,Seguimiento Estándar
+c5c4857ab5eda04a,56,male,39.6,Obesidad II,0,no,southwest,11750.768597897995,Seguimiento Estándar
+4c28511f292118eb,40,female,33.0,Obesidad I,3,no,southeast,7993.902201329433,Seguimiento Estándar
+ffa3936923e2f435,49,female,36.63,Obesidad II,3,no,southeast,10557.867428733345,Seguimiento Estándar
+8b90809b072ea84b,42,male,30.0,Sobrepeso,0,yes,southwest,31155.92594269084,Atención Preventiva Prioritaria
+badfb9ca1757fdb8,62,female,38.095,Obesidad II,2,no,northeast,15866.908737573425,Seguimiento Estándar
+9c48ac9d922c8ec5,56,male,25.935,Sobrepeso,0,no,northeast,11878.49202303654,Seguimiento Estándar
+99bc0504c6350ccd,19,male,25.175,Sobrepeso,0,no,northwest,1831.6617634720487,Seguimiento Estándar
+e71d98b4dc6543a1,30,female,28.38,Sobrepeso,1,yes,southeast,18975.166319153646,Seguimiento Estándar
+c3faa0e07b5ea619,60,female,28.7,Sobrepeso,1,no,southwest,13679.547350319546,Seguimiento Estándar
+1df1460e61ec780c,56,female,33.82,Obesidad I,2,no,northwest,13226.283477461115,Seguimiento Estándar
+d42bba5c4a7d806e,28,female,24.32,Normal,1,no,northeast,6131.0434797312455,Seguimiento Estándar
+ce6663c864b6d4cb,18,female,24.09,Normal,1,no,southeast,2423.3372214393244,Seguimiento Estándar
+d413dd53a39c7dbe,27,male,32.67,Obesidad I,0,no,southeast,2966.953706970511,Seguimiento Estándar
+67477dc4a06ea469,18,female,30.115,Obesidad I,0,no,northeast,3081.8887916841154,Seguimiento Estándar
+73b703b6eedcb01c,19,female,29.8,Sobrepeso,0,no,southwest,2072.919199670615,Seguimiento Estándar
+b781a91e90cbf628,47,female,33.345,Obesidad I,0,no,northeast,10653.237892006728,Seguimiento Estándar
+630bdc6d32f980e2,54,male,25.1,Sobrepeso,3,yes,southwest,24973.988189176976,Atención Preventiva Prioritaria
+4d4c9793475eabc9,61,male,28.31,Sobrepeso,1,yes,northwest,28319.889761328603,Atención Preventiva Prioritaria
+5a5144066c53e89d,24,male,28.5,Sobrepeso,0,yes,northeast,20217.21144149142,Atención Preventiva Prioritaria
+a2315fbd3fb52e0f,25,male,35.625,Obesidad II,0,no,northwest,2877.324531819737,Seguimiento Estándar
+ce1438f179ec60ff,21,male,36.85,Obesidad II,0,no,southeast,1890.1752755218115,Seguimiento Estándar
+5aa620f2c4742be3,23,male,32.56,Obesidad I,0,no,southeast,2969.2873735148355,Seguimiento Estándar
+737ca9e1b6d61673,63,male,41.325,Obesidad III,3,no,northwest,16231.295502333443,Seguimiento Estándar
+1e21d42ef9d5040c,49,male,37.51,Obesidad II,2,no,southeast,9795.141825232078,Seguimiento Estándar
+1a01a5212232864e,18,female,31.35,Obesidad I,0,no,southeast,2287.123153034387,Seguimiento Estándar
+43c1d29fc71f61b1,51,female,39.5,Obesidad II,1,no,southwest,10373.106940049513,Seguimiento Estándar
+ac364368ec367dd7,48,male,34.3,Obesidad I,3,no,southwest,10098.287730984359,Seguimiento Estándar
+31ebed831b324aab,31,female,31.065,Obesidad I,0,no,northeast,4206.6650668770235,Seguimiento Estándar
+4681bee53f2043d3,54,female,21.47,Normal,3,no,northwest,12155.183455403305,Seguimiento Estándar
+d5bdfb21e188359c,19,male,28.7,Sobrepeso,0,no,southwest,1799.4827029000267,Seguimiento Estándar
+2e5a873de282ecc9,44,female,38.06,Obesidad II,0,yes,southeast,44718.90403598906,Atención Preventiva Prioritaria
+2208abb46cada367,53,male,31.16,Obesidad I,1,no,northwest,11714.608942163602,Seguimiento Estándar
+eaf73accbf96d031,19,female,32.9,Obesidad I,0,no,southwest,2512.3948548561466,Seguimiento Estándar
+bbe8035ad0092025,61,female,25.08,Sobrepeso,0,no,southeast,15859.263173540228,Seguimiento Estándar
+7415a86637629d4c,18,female,25.08,Sobrepeso,0,no,northeast,2293.9861354010195,Seguimiento Estándar
+bdac03e58fbacd9f,61,male,43.4,Obesidad III,0,no,southwest,13443.671856279949,Seguimiento Estándar
+b5450cd03fb89e7b,21,male,25.7,Sobrepeso,4,yes,southwest,16648.324160204535,Seguimiento Estándar
+692a528a0412baa1,20,male,27.93,Sobrepeso,0,no,northeast,2014.9140227947398,Seguimiento Estándar
+ce9c54ec2e65a7e9,31,female,23.6,Normal,2,no,southwest,5451.741773307637,Seguimiento Estándar
+4c743f50d6465cf4,45,male,28.7,Sobrepeso,2,no,southwest,9544.849594565516,Seguimiento Estándar
+0cc155d298091a1c,44,female,23.98,Normal,2,no,southeast,8351.871254147754,Seguimiento Estándar
+eefbd193ddd70ba4,62,female,39.2,Obesidad II,0,no,southwest,13891.141884935392,Seguimiento Estándar
+72a93f7cdaac011a,29,male,34.4,Obesidad I,0,yes,southwest,37115.28579202835,Atención Preventiva Prioritaria
+5a7ce1ea6539540b,43,male,26.03,Sobrepeso,0,no,northeast,7387.288270070212,Seguimiento Estándar
+d9226c8b93b63876,51,male,23.21,Normal,1,yes,southeast,23236.5593082615,Atención Preventiva Prioritaria
+50a69f37aedc897b,19,male,30.25,Obesidad I,0,yes,southeast,33542.949028209994,Atención Preventiva Prioritaria
+b266c3b8d693fe66,38,female,28.93,Sobrepeso,1,no,southeast,6413.6882845852415,Seguimiento Estándar
+68ff65e5796758a8,37,male,30.875,Obesidad I,3,no,northwest,6852.60885385425,Seguimiento Estándar
+fa1a816dd6fd5034,22,male,31.35,Obesidad I,1,no,northwest,3693.695296354511,Seguimiento Estándar
+4b927a7bf1eefcf7,21,male,23.75,Normal,2,no,northwest,4684.636328506947,Seguimiento Estándar
+267620e1ecc7846f,24,female,25.27,Sobrepeso,0,no,northeast,3591.1882658586865,Seguimiento Estándar
+f7141558f6cfdd0e,57,female,28.7,Sobrepeso,0,no,southwest,11971.789369675453,Seguimiento Estándar
+a91bda98ef5f3f7b,56,male,32.11,Obesidad I,1,no,northeast,11775.36293147331,Seguimiento Estándar
+b1334a014702805e,27,male,33.66,Obesidad I,0,no,southeast,2991.266888199105,Seguimiento Estándar
+233f4f28fae972f1,51,male,22.42,Normal,0,no,northeast,10108.370512654883,Seguimiento Estándar
+d3d491da0b4aed9e,19,male,30.4,Obesidad I,0,no,southwest,1837.1777372577124,Seguimiento Estándar
+98072e2cfb03163d,39,male,28.3,Sobrepeso,1,yes,southwest,22391.353162403695,Atención Preventiva Prioritaria
+21b95f57dd723a09,58,male,35.7,Obesidad II,0,no,southwest,12296.727183221807,Seguimiento Estándar
+4ea206ef02e7bc84,20,male,35.31,Obesidad II,1,no,southeast,4368.934049452961,Seguimiento Estándar
+4921fc4fc4838385,45,male,30.495,Obesidad I,2,no,northwest,8952.44807828702,Seguimiento Estándar
+9c54917a2a18d5b5,35,female,31.0,Obesidad I,1,no,southwest,5453.2201830801,Seguimiento Estándar
+0ff497aeee3bfef5,31,male,30.875,Obesidad I,0,no,northeast,4180.196199091125,Seguimiento Estándar
+ce2ddb7ba93e4e28,50,female,27.36,Sobrepeso,0,no,northeast,12301.48174014549,Seguimiento Estándar
+9236cf3185c99a87,32,female,44.22,Obesidad III,0,no,southeast,4221.21276970085,Seguimiento Estándar
+20eb0396880f7e5a,51,female,33.915,Obesidad I,0,no,northeast,10671.342277948046,Seguimiento Estándar
+7ca9f30ab2deb388,38,female,37.73,Obesidad II,0,no,southeast,6411.124941612765,Seguimiento Estándar
+9cc97424e36a9259,42,male,26.07,Sobrepeso,1,yes,southeast,24651.889984594283,Atención Preventiva Prioritaria
+9a23c50e9f6ff074,18,female,33.88,Obesidad I,0,no,southeast,2620.804237940388,Seguimiento Estándar
+e6677024e108928a,19,female,30.59,Obesidad I,2,no,northwest,7915.244599774305,Seguimiento Estándar
+9bf8e6bae08e0c22,51,female,25.8,Sobrepeso,1,no,southwest,11651.719699367013,Seguimiento Estándar
+b88afd568014c77b,46,male,39.425,Obesidad II,1,no,northeast,8992.167993920553,Seguimiento Estándar
+bc268c180eb217d7,18,male,25.46,Sobrepeso,0,no,northeast,1845.5482285188152,Seguimiento Estándar
+87c7e464c1080737,57,male,42.13,Obesidad III,1,yes,southeast,48319.10311083427,Atención Preventiva Prioritaria
+be177f3cc04ee084,62,female,31.73,Obesidad I,0,no,northeast,13734.050427669245,Seguimiento Estándar
+b8dad57effdc5f44,59,male,29.7,Sobrepeso,2,no,southeast,13792.734060737985,Seguimiento Estándar
+aa174ea4a2dce2cd,37,male,36.19,Obesidad II,0,no,southeast,7804.289988168798,Seguimiento Estándar
+27befac6da728494,64,male,40.48,Obesidad III,0,no,southeast,13904.30635044026,Seguimiento Estándar
+38a63a07c4398f4c,38,male,28.025,Sobrepeso,1,no,northeast,6110.97734297972,Seguimiento Estándar
+3e0dcff1ccef672a,33,female,38.9,Obesidad II,3,no,southwest,5903.3927457808495,Seguimiento Estándar
+800624b08e42286e,46,female,30.2,Obesidad I,2,no,southwest,9233.845070478206,Seguimiento Estándar
+8389b872286247c4,46,female,28.05,Sobrepeso,1,no,southeast,9577.24380936841,Seguimiento Estándar
+e968da6c050473fa,53,male,31.35,Obesidad I,0,no,southeast,12107.493894237215,Seguimiento Estándar
+14abeb39eaf69241,34,female,38.0,Obesidad II,3,no,southwest,6118.547380920274,Seguimiento Estándar
+ac786163bb4ffc72,20,female,31.79,Obesidad I,2,no,southeast,4254.648145629258,Seguimiento Estándar
+9a5f68ffed7d7750,63,female,36.3,Obesidad II,0,no,southeast,14040.809387479992,Seguimiento Estándar
+57d88c0a5f1792a5,54,female,47.41,Obesidad III,0,yes,southeast,47516.35550887382,Atención Preventiva Prioritaria
+8c4909a461750cfd,54,male,30.21,Obesidad I,0,no,northwest,11867.113128145298,Seguimiento Estándar
+1b3e817f6ed8685a,49,male,25.84,Sobrepeso,2,yes,northwest,24021.845189273063,Atención Preventiva Prioritaria
+8ca2237d71b2647a,28,male,35.435,Obesidad II,0,no,northeast,3524.007597036826,Seguimiento Estándar
+5176e191008b6f57,54,female,46.7,Obesidad III,2,no,southwest,12506.287923616996,Seguimiento Estándar
+f1830bc47250e525,25,female,28.595,Sobrepeso,0,no,northeast,3607.771340841714,Seguimiento Estándar
+eb5acc6315a92153,43,female,46.2,Obesidad III,0,yes,southeast,45055.02560857105,Atención Preventiva Prioritaria
+e6996149a2b58ab1,63,male,30.8,Obesidad I,0,no,southwest,13454.931720023416,Seguimiento Estándar
+8a3c8c4672be110a,32,female,28.93,Sobrepeso,0,no,southeast,4097.099093457027,Seguimiento Estándar
+4f3772bf42ab3070,62,male,21.4,Normal,0,no,southwest,13125.033476637329,Seguimiento Estándar
+7bfa6c69661a0031,52,female,31.73,Obesidad I,2,no,northwest,12803.207878487468,Seguimiento Estándar
+59a3c14944eb8462,25,female,41.325,Obesidad III,0,no,northeast,3221.1277372400023,Seguimiento Estándar
+0aee16fce9739e82,28,male,23.8,Normal,2,no,southwest,5030.206006601949,Seguimiento Estándar
+df4261ba83df193b,46,male,33.44,Obesidad I,1,no,northeast,8852.81058479939,Seguimiento Estándar
+a9a42d11651e5bc0,34,male,34.21,Obesidad I,0,no,southeast,4863.9495761235485,Seguimiento Estándar
+38da11f6c8b00a80,35,female,34.105,Obesidad I,3,yes,northwest,40224.23213335282,Atención Preventiva Prioritaria
+937212c3bc14091c,19,male,35.53,Obesidad II,0,no,northwest,1907.8545990928446,Seguimiento Estándar
+6507c5d993c33504,46,female,19.95,Normal,2,no,northwest,8324.753671643319,Seguimiento Estándar
+a366b0e5637453a0,54,female,32.68,Obesidad I,0,no,northeast,11950.146765401154,Seguimiento Estándar
+172ab8b05a26cb4d,27,male,30.5,Obesidad I,0,no,southwest,3073.178374710757,Seguimiento Estándar
+f8a1f7e2be75973b,50,male,44.77,Obesidad III,1,no,southeast,9453.99326709311,Seguimiento Estándar
+3c9174a921ffc7c9,18,female,32.12,Obesidad I,2,no,southeast,4005.9988498115454,Seguimiento Estándar
+4e57c1fd1959a751,19,female,30.495,Obesidad I,0,no,northwest,2405.5551093321196,Seguimiento Estándar
+cc057293ebc0c3ae,38,female,40.565,Obesidad III,1,no,northwest,6816.012250137257,Seguimiento Estándar
+223af7c3fa062c22,41,male,30.59,Obesidad I,2,no,northwest,7276.6053908122485,Seguimiento Estándar
+5ddc615c7dfaa3ce,49,female,31.9,Obesidad I,5,no,southwest,10643.48470911576,Seguimiento Estándar
+e8faee62a35a8051,48,male,40.565,Obesidad III,2,yes,northwest,45672.966876228136,Atención Preventiva Prioritaria
+ae09573db658e2d0,31,female,29.1,Sobrepeso,0,no,southwest,4026.377960210231,Seguimiento Estándar
+777a263a07f81d77,18,female,37.29,Obesidad II,1,no,southeast,2621.2722909339345,Seguimiento Estándar
+a1fa7857d66d6af5,30,female,43.12,Obesidad III,2,no,southeast,4984.19965935128,Seguimiento Estándar
+2a5b510d1507f4d7,62,female,36.86,Obesidad II,1,no,northeast,15225.544756711604,Seguimiento Estándar
+0331255688b50ab3,57,female,34.295,Obesidad I,2,no,northeast,14228.227713501165,Seguimiento Estándar
+a8012529aa72c0e3,58,female,27.17,Sobrepeso,0,no,northwest,12693.903043749677,Seguimiento Estándar
+6cd4786638460eab,22,male,26.84,Sobrepeso,0,no,southeast,1963.7582890654808,Seguimiento Estándar
+e7216dfab55112aa,31,female,38.095,Obesidad II,1,yes,northeast,44921.245168782625,Atención Preventiva Prioritaria
+05a7556b4a3121c9,52,male,30.2,Obesidad I,1,no,southwest,10638.460114103387,Seguimiento Estándar
+d0cfa250f845b2da,25,female,23.465,Normal,0,no,northeast,3628.690473951894,Seguimiento Estándar
+e650c2416675e4c2,59,male,25.46,Sobrepeso,1,no,northeast,13223.736187946142,Seguimiento Estándar
+cfd6b958f9648263,39,male,45.43,Obesidad III,2,no,southeast,7546.934739833474,Seguimiento Estándar
+92d4d49ce509bee1,32,female,23.65,Normal,1,no,southeast,6664.516844145305,Seguimiento Estándar
+e780a9172cefe9d8,19,male,20.7,Normal,0,no,southwest,1543.6643079184018,Seguimiento Estándar
+f6ef4dae89c975ab,33,female,28.27,Sobrepeso,1,no,southeast,5136.794452014361,Seguimiento Estándar
+613c1fbc633c3d7a,21,male,20.235,Normal,3,no,northeast,3908.320804639042,Seguimiento Estándar
+126fb72140eced73,34,female,30.21,Obesidad I,1,yes,northwest,40321.56807774794,Atención Preventiva Prioritaria
+7d5fdfc3d150efcc,61,female,35.91,Obesidad II,0,no,northeast,13804.894273590231,Seguimiento Estándar
+2dbc5b25e31ce3ea,38,female,30.69,Obesidad I,1,no,southeast,6320.070402174013,Seguimiento Estándar
+e78e8362fbfbbea3,58,female,29.0,Sobrepeso,0,no,southwest,12086.384026137304,Seguimiento Estándar
+757d482de85b6521,47,male,19.57,Normal,1,no,northwest,8453.816549359595,Seguimiento Estándar
+e86240846f5294f8,20,male,31.13,Obesidad I,2,no,southeast,3949.970036431754,Seguimiento Estándar
+d8a2286c868715df,21,female,21.85,Normal,1,yes,northeast,15547.409741499963,Seguimiento Estándar
+7a6f5ea9e0867864,41,male,40.26,Obesidad III,0,no,southeast,6675.330044003424,Seguimiento Estándar
+39fd40e117224c23,46,female,33.725,Obesidad I,1,no,northeast,9192.536052635573,Seguimiento Estándar
+c5b4058182ba6f32,42,female,29.48,Sobrepeso,2,no,southeast,7651.471660109946,Seguimiento Estándar
+8ce6062dd54a8bd2,34,female,33.25,Obesidad I,1,no,northeast,5803.7893936492455,Seguimiento Estándar
+962ecabd23a3740a,43,male,32.6,Obesidad I,2,no,southwest,8492.265463743382,Seguimiento Estándar
+9eb9c35a2a64bc6c,52,female,37.525,Obesidad II,2,no,northwest,15814.602080825372,Seguimiento Estándar
+8c533bf2e9cc34e5,18,female,39.16,Obesidad II,0,no,southeast,2103.7357071488113,Seguimiento Estándar
+5351a0ad411e7c21,51,male,31.635,Obesidad I,0,no,northwest,10413.275161712587,Seguimiento Estándar
+f5e741410c1ca4fb,56,female,25.3,Sobrepeso,0,no,southwest,12439.698558129745,Seguimiento Estándar
+27c8cb53e639d209,64,female,39.05,Obesidad II,3,no,southeast,16423.37020914595,Seguimiento Estándar
+ee6c1f144c6ee54e,19,female,28.31,Sobrepeso,0,yes,northwest,17248.109696582094,Seguimiento Estándar
+506dfff3a1c4f746,51,female,34.1,Obesidad I,0,no,southeast,10322.745162557503,Seguimiento Estándar
+a38b98004db69e62,27,female,25.175,Sobrepeso,0,no,northeast,3750.4133873809587,Seguimiento Estándar
+871e17f24a39a85b,59,female,23.655,Normal,0,yes,northwest,25913.001086837205,Atención Preventiva Prioritaria
+43602459b4b8d9f3,28,male,26.98,Sobrepeso,2,no,northeast,5138.546702586931,Seguimiento Estándar
+34194c6eb9a6790b,30,male,37.8,Obesidad II,2,yes,southwest,42361.36446901197,Atención Preventiva Prioritaria
+7706a793e9e1b663,47,female,29.37,Sobrepeso,1,no,southeast,10007.2189952991,Seguimiento Estándar
+68f31d50b28fa180,38,female,34.8,Obesidad I,2,no,southwest,7058.912326284448,Seguimiento Estándar
+b9c2fa017019962b,18,female,33.155,Obesidad I,0,no,northeast,2682.4916932027186,Seguimiento Estándar
+dd9f09da8725e802,34,female,19.0,Normal,3,no,northeast,6792.092868847693,Seguimiento Estándar
+7d2b93d4156f5138,20,female,33.0,Obesidad I,0,no,southeast,2609.3122872850868,Seguimiento Estándar
+63b2ca717ed03963,47,female,36.63,Obesidad II,1,yes,southeast,43791.02594471343,Atención Preventiva Prioritaria
+2707be31258fd1cc,56,female,28.595,Sobrepeso,0,no,northeast,12213.75570727716,Seguimiento Estándar
+f866728faf693502,49,male,25.6,Sobrepeso,2,yes,southwest,23787.98201812257,Atención Preventiva Prioritaria
+2bb6f0e5612c4562,19,female,33.11,Obesidad I,0,yes,southeast,35544.52483773599,Atención Preventiva Prioritaria
+df584c0a87e59209,55,female,37.1,Obesidad II,0,no,southwest,12121.296936036166,Seguimiento Estándar
+3a5e68c85e652a11,30,male,31.4,Obesidad I,1,no,southwest,4493.912722364793,Seguimiento Estándar
+85d9a203ee73d309,37,male,34.1,Obesidad I,4,yes,southwest,39562.482568510975,Atención Preventiva Prioritaria
+6868e25efa2296a4,49,female,21.3,Normal,1,no,southwest,9355.285457553811,Seguimiento Estándar
+54a56e32fed06866,18,male,33.535,Obesidad I,0,yes,northeast,35008.086635761625,Atención Preventiva Prioritaria
+7fdd31e77bc9885a,59,male,28.785,Sobrepeso,0,no,northwest,12779.580040474511,Seguimiento Estándar
+91a38586151ab4d0,29,female,26.03,Sobrepeso,0,no,northwest,3997.549467334167,Seguimiento Estándar
+7d486400706b2f3e,36,male,28.88,Sobrepeso,3,no,northeast,6367.041640860743,Seguimiento Estándar
+781986474c3c3c44,33,male,42.46,Obesidad III,1,no,southeast,5197.676103009494,Seguimiento Estándar
+721aa6106aca93a8,58,male,38.0,Obesidad II,0,no,southwest,12481.355507957287,Seguimiento Estándar
+5e84154c9d6152de,44,female,38.95,Obesidad II,0,yes,northwest,44305.74476714602,Atención Preventiva Prioritaria
+44a99b309bf99830,53,male,36.1,Obesidad II,1,no,southwest,11072.770732116422,Seguimiento Estándar
+3b2749554388bd07,24,male,29.3,Sobrepeso,0,no,southwest,2962.888322634643,Seguimiento Estándar
+803d48a9eb54edb7,29,female,35.53,Obesidad II,0,no,southeast,3633.9604114145873,Seguimiento Estándar
+2f68c7d94d7e0369,40,male,22.705,Normal,2,no,northeast,7539.826725843441,Seguimiento Estándar
+5d1b32986677fb2b,51,male,39.7,Obesidad II,1,no,southwest,9911.435494635527,Seguimiento Estándar
+fdf698a0c3593d72,64,male,38.19,Obesidad II,0,no,northeast,14026.388993458466,Seguimiento Estándar
+ba4f7d78c69f053a,19,female,24.51,Normal,1,no,northwest,2597.0355932830826,Seguimiento Estándar
+69a2e345fa9afe80,35,female,38.095,Obesidad II,2,no,northeast,6594.869810504605,Seguimiento Estándar
+367e15d7b321033f,39,male,26.41,Sobrepeso,0,yes,northeast,20465.667491956716,Atención Preventiva Prioritaria
+53c590f7283f9aa5,56,male,33.66,Obesidad I,4,no,southeast,13394.570759396478,Seguimiento Estándar
+c012b8b65d2b23cb,33,male,42.4,Obesidad III,5,no,southwest,6459.835481642205,Seguimiento Estándar
+8bb2c84dac3c1b03,42,male,28.31,Sobrepeso,3,yes,northwest,24957.32716905182,Atención Preventiva Prioritaria
+b0b44eeadd6fd2d1,61,male,33.915,Obesidad I,0,no,northeast,13513.394330106034,Seguimiento Estándar
+7ad13cb0312da9ea,23,female,34.96,Obesidad I,3,no,northwest,5527.2436205893355,Seguimiento Estándar
+aab99e834515de08,43,male,35.31,Obesidad II,2,no,southeast,8726.200183139686,Seguimiento Estándar
+68cbf0ec3b0b81a4,48,male,30.78,Obesidad I,3,no,northeast,10044.024096552872,Seguimiento Estándar
+bbf80ce4281d1e5a,39,male,26.22,Sobrepeso,1,no,northwest,6380.420667676263,Seguimiento Estándar
+a8957881465bcf45,40,female,23.37,Normal,3,no,northeast,7834.784797717401,Seguimiento Estándar
+8cfe645e03bbb2e7,18,male,28.5,Sobrepeso,0,no,northeast,2014.423447576821,Seguimiento Estándar
+c8314724a0831a03,58,female,32.965,Obesidad I,0,no,northeast,12311.100342827329,Seguimiento Estándar
+8a196d5de5bd0216,49,female,42.68,Obesidad III,2,no,southeast,10225.550722701453,Seguimiento Estándar
+324493ed59329fe4,53,female,39.6,Obesidad II,1,no,southeast,11883.001753979626,Seguimiento Estándar
+7db4143340bfdff9,48,female,31.13,Obesidad I,0,no,southeast,10034.818683622536,Seguimiento Estándar
+c02f8b1e12feb1c2,45,female,36.3,Obesidad II,2,no,southeast,9131.339787830848,Seguimiento Estándar
+69e6fb4c7a85bf7b,59,female,35.2,Obesidad II,0,no,southeast,13892.237702651842,Seguimiento Estándar
+e05076896070bb85,52,female,25.3,Sobrepeso,2,yes,southeast,24260.614687293386,Atención Preventiva Prioritaria
+388b23ec34926ff5,26,female,42.4,Obesidad III,1,no,southwest,3736.4435046083104,Seguimiento Estándar
+b932fd73a0cd7321,27,male,33.155,Obesidad I,2,no,northwest,5330.2378673783405,Seguimiento Estándar
+bde3a0c2654c2402,48,female,35.91,Obesidad II,1,no,northeast,11142.36117389446,Seguimiento Estándar
+ad7aa0005924a0ae,57,female,28.785,Sobrepeso,4,no,northeast,13136.495847540404,Seguimiento Estándar
+6d40aa7701635939,37,male,46.53,Obesidad III,3,no,southeast,6948.342727009617,Seguimiento Estándar
+ae70f7c4acb8b989,57,female,23.98,Normal,1,no,southeast,14253.073007056833,Seguimiento Estándar
+0914e688e02a6af3,32,female,31.54,Obesidad I,1,no,northeast,5013.070037578864,Seguimiento Estándar
+429d0669d4f845b4,18,male,33.66,Obesidad I,0,no,southeast,1810.2512955425611,Seguimiento Estándar
+2094c2bf91189f6e,64,female,22.99,Normal,0,yes,southeast,26863.803273025158,Atención Preventiva Prioritaria
+5bfd5a3970ac6ed8,43,male,38.06,Obesidad II,2,yes,southeast,43170.999585700505,Atención Preventiva Prioritaria
+2db7b0298fdd8a2c,49,male,28.7,Sobrepeso,1,no,southwest,10415.20233543281,Seguimiento Estándar
+67425b8f33cf719b,40,female,32.775,Obesidad I,2,yes,northwest,39968.58963599483,Atención Preventiva Prioritaria
+87bb439e64456c90,62,male,32.015,Obesidad I,0,yes,northeast,46028.52673221781,Atención Preventiva Prioritaria
+3c8d167f951bd1f8,40,female,29.81,Sobrepeso,1,no,southeast,6859.360682129552,Seguimiento Estándar
+d8c9e6a041f7a10e,30,male,31.57,Obesidad I,3,no,southeast,5181.786944216897,Seguimiento Estándar
+4a7ffba8257d6cb7,29,female,31.16,Obesidad I,0,no,northeast,3855.751074580413,Seguimiento Estándar
+6b1b26f94ad4e884,36,male,29.7,Sobrepeso,0,no,southeast,4957.34904203935,Seguimiento Estándar
+257c6051c91cd89c,41,female,31.02,Obesidad I,0,no,southeast,6710.143505242188,Seguimiento Estándar
+58daf38280ec1054,44,female,43.89,Obesidad III,2,yes,southeast,45481.68930279013,Atención Preventiva Prioritaria
+dd9aded7fedca0d1,45,male,21.375,Normal,0,no,northwest,7761.581916540288,Seguimiento Estándar
+df0ba12790486af2,55,female,40.81,Obesidad III,3,no,southeast,14216.141485294396,Seguimiento Estándar
+a6fe9ef1236801aa,60,male,31.35,Obesidad I,3,yes,northwest,45389.23575717141,Atención Preventiva Prioritaria
+115d6083881e3275,56,male,36.1,Obesidad II,3,no,southwest,14606.466653148087,Seguimiento Estándar
+6a277c65b72fdd48,49,female,23.18,Normal,2,no,northwest,10792.711116510904,Seguimiento Estándar
+0e0a1cdaa02ef7b8,21,female,17.4,Bajo peso,1,no,southwest,2425.9624468905167,Seguimiento Estándar
+7905b8fea64be1c6,19,male,20.3,Normal,0,no,southwest,1510.5922658964214,Seguimiento Estándar
+0fd9c54094ed9dcc,39,male,35.3,Obesidad II,2,yes,southwest,40356.0108440665,Atención Preventiva Prioritaria
+1f3451e9af1d416a,53,male,24.32,Normal,0,no,northwest,11906.770287359463,Seguimiento Estándar
+992dbad3edb0966c,33,female,18.5,Bajo peso,1,no,southwest,5142.990129448863,Seguimiento Estándar
+6e973d6380ec2bf6,53,male,26.41,Sobrepeso,2,no,northeast,12089.915314362079,Seguimiento Estándar
+3d4574db6a8c9cf6,42,male,26.125,Sobrepeso,2,no,northeast,7566.80802964285,Seguimiento Estándar
+cfc8501b2793421a,40,male,41.69,Obesidad III,0,no,southeast,7072.947958295797,Seguimiento Estándar
+6b6167b1170bbaa3,47,female,24.1,Normal,1,no,southwest,11371.483607186547,Seguimiento Estándar
+60c8af5f7dffa7fe,27,male,31.13,Obesidad I,1,yes,southeast,35436.23576442016,Atención Preventiva Prioritaria
+679fe29ca2811586,21,male,27.36,Sobrepeso,0,no,northeast,2038.3026280716576,Seguimiento Estándar
+8d51d83d62662177,47,male,36.2,Obesidad II,1,no,southwest,9494.362302222262,Seguimiento Estándar
+33cee3f52e02f408,20,male,32.395,Obesidad I,1,no,northwest,3408.1908074185085,Seguimiento Estándar
+8eae22c1e837fa2b,24,male,23.655,Normal,0,no,northwest,2868.706717607934,Seguimiento Estándar
+46c1d0dcf3aa0ab0,27,female,34.8,Obesidad I,1,no,southwest,4028.8425365978133,Seguimiento Estándar
+440b419e72efdaed,26,female,40.185,Obesidad III,0,no,northwest,3354.3113188372386,Seguimiento Estándar
+f76d69ea1d3518f3,53,female,32.3,Obesidad I,2,no,northeast,13675.143405947692,Seguimiento Estándar
+ce48ec4ac6144960,41,male,35.75,Obesidad II,1,yes,southeast,40846.58891155942,Atención Preventiva Prioritaria
+5b9fc6071fdc8cf3,56,male,33.725,Obesidad I,0,no,northwest,11716.68225943162,Seguimiento Estándar
+6665df99dc461984,23,female,39.27,Obesidad II,2,no,southeast,4250.992980950324,Seguimiento Estándar
+ec4dfa1bf50ff776,21,female,34.87,Obesidad I,0,no,southeast,2141.507230058564,Seguimiento Estándar
+78fb10240f9fd987,50,female,44.745,Obesidad III,0,no,northeast,10074.088124909436,Seguimiento Estándar
+07a1f5b86cc21b50,53,male,41.47,Obesidad III,0,no,southeast,11459.059552527448,Seguimiento Estándar
+00256e9fe2b99b31,34,female,26.41,Sobrepeso,1,no,northwest,5486.827597455206,Seguimiento Estándar
+3ff63dafb1094909,47,female,29.545,Sobrepeso,1,no,northwest,10181.98892094018,Seguimiento Estándar
+39013141bd544069,33,female,32.9,Obesidad I,2,no,southwest,5756.003874055224,Seguimiento Estándar
+9aab780725448997,51,female,38.06,Obesidad II,0,yes,southeast,45658.05354372935,Atención Preventiva Prioritaria
+05abd8d38fdefe8c,49,male,28.69,Sobrepeso,3,no,northwest,10808.13498235795,Seguimiento Estándar
+ce821421eb07d642,31,female,30.495,Obesidad I,3,no,northeast,5774.31373717893,Seguimiento Estándar
+3634b557513e68b8,36,female,27.74,Sobrepeso,0,no,northeast,5090.359869332001,Seguimiento Estándar
+02f4316e8197cc64,18,male,35.2,Obesidad II,1,no,southeast,2439.5255730824038,Seguimiento Estándar
+ae7407cc3e10fbc1,50,female,23.54,Normal,2,no,southeast,11439.29435833937,Seguimiento Estándar
+0a6506a1e68aaa59,43,female,30.685,Obesidad I,2,no,northwest,8969.118389838854,Seguimiento Estándar
+bc3b61a39bef89ae,20,male,40.47,Obesidad III,0,no,northeast,2075.2565062404897,Seguimiento Estándar
+5da99aece62ed724,24,female,22.6,Normal,0,no,southwest,4167.530443567307,Seguimiento Estándar
+e2f5069844dd4a38,60,male,28.9,Sobrepeso,0,no,southwest,12814.15181950473,Seguimiento Estándar
+707277920d2b6c2a,49,female,22.61,Normal,1,no,northwest,9936.618039716446,Seguimiento Estándar
+eecf8b01c8c6c7a9,60,male,24.32,Normal,1,no,northwest,14070.706441516943,Seguimiento Estándar
+6355e3d4233bbfef,51,female,36.67,Obesidad II,2,no,northwest,11590.22065997051,Seguimiento Estándar
+90074f5a21992e07,58,female,33.44,Obesidad I,0,no,northwest,12376.09200065563,Seguimiento Estándar
+8ffda43f8607e07d,51,female,40.66,Obesidad III,0,no,northeast,10224.73056961671,Seguimiento Estándar
+89b813d458d6056a,53,male,36.6,Obesidad II,3,no,southwest,13330.11959516394,Seguimiento Estándar
+3b78d0b8bc2ee740,62,male,37.4,Obesidad II,0,no,southwest,13983.680098932346,Seguimiento Estándar
+e33f2420c0e16b4c,19,male,35.4,Obesidad II,0,no,southwest,1797.769950553253,Seguimiento Estándar
+b737e156cc4fd7dc,50,female,27.075,Sobrepeso,1,no,northeast,12157.926063371526,Seguimiento Estándar
+e5473b0b4235de7e,30,female,39.05,Obesidad II,3,yes,southeast,42720.42415097068,Atención Preventiva Prioritaria
+ee8a3e290a7ddc04,41,male,28.405,Sobrepeso,1,no,northwest,6809.4111588746155,Seguimiento Estándar
+14eab14b2dc9ef42,29,female,21.755,Normal,1,yes,northeast,16438.138032611467,Seguimiento Estándar
+585e963425d34895,18,female,40.28,Obesidad III,0,no,northeast,2220.374892006337,Seguimiento Estándar
+35fb77e4be2f934a,41,female,36.08,Obesidad II,1,no,southeast,7246.30367871066,Seguimiento Estándar
+63589c60bd320a34,35,male,24.42,Normal,3,yes,southeast,19126.855015581892,Seguimiento Estándar
+b2929feedce1a36d,53,male,21.4,Normal,1,no,southwest,10857.408051441,Seguimiento Estándar
+89394dcad0402868,24,female,30.1,Obesidad I,3,no,southwest,5294.833300163046,Seguimiento Estándar
+4117f2ebd549a126,48,female,27.265,Sobrepeso,1,no,northeast,11100.88130368351,Seguimiento Estándar
+50a56d3257008920,59,female,32.1,Obesidad I,3,no,southwest,14649.251086575063,Seguimiento Estándar
+a3c6da1c57204d25,49,female,34.77,Obesidad I,1,no,northwest,10678.38959234639,Seguimiento Estándar
+4cca51e09bc062e6,37,female,38.39,Obesidad II,0,yes,southeast,41525.077468870004,Atención Preventiva Prioritaria
+39fc03d0a6c829ac,26,male,23.7,Normal,2,no,southwest,5174.930812561165,Seguimiento Estándar
+399f4a0e73a38ab5,23,male,31.73,Obesidad I,3,yes,northeast,35419.43302682317,Atención Preventiva Prioritaria
+30728cbb9bf2133b,29,male,35.5,Obesidad II,2,yes,southwest,42030.252304086534,Atención Preventiva Prioritaria
+3537c3f5b82c4f64,45,male,24.035,Normal,2,no,northeast,8400.595931026537,Seguimiento Estándar
+c427d7b41f1e248d,27,male,29.15,Sobrepeso,0,yes,southeast,19035.30968746195,Seguimiento Estándar
+9b8f8ca77c416c13,53,male,34.105,Obesidad I,0,yes,northeast,43842.534912329924,Atención Preventiva Prioritaria
+1cb7dc3c9a9b388a,31,female,26.62,Sobrepeso,0,no,southeast,3907.3315139396714,Seguimiento Estándar
+bebf4abd85e97b95,50,male,26.41,Sobrepeso,0,no,northwest,11024.474454079258,Seguimiento Estándar
+3bae0d8edf441b42,50,female,30.115,Obesidad I,1,no,northwest,10421.46787309579,Seguimiento Estándar
+53b5581980021ab3,34,male,27.0,Sobrepeso,2,no,southwest,6427.2485980902875,Seguimiento Estándar
+ce539bd48d06ac40,19,male,21.755,Normal,0,no,northwest,1778.8951175914328,Seguimiento Estándar
+5234d4bbc4444b47,47,female,36.0,Obesidad II,1,no,southwest,9986.498890049204,Seguimiento Estándar
+e42ff37691512e20,28,male,30.875,Obesidad I,0,no,northwest,3850.487382117277,Seguimiento Estándar
+e3535cb440a0abd0,37,female,26.4,Sobrepeso,0,yes,southeast,19559.01074268484,Seguimiento Estándar
+45a41405d687b3ab,21,male,28.975,Sobrepeso,0,no,northwest,2091.546898848521,Seguimiento Estándar
+ed22e6dd0bf6a99f,64,male,37.905,Obesidad II,0,no,northwest,14137.541698858342,Seguimiento Estándar
+21f834d5cea8a0b3,58,female,22.77,Normal,0,no,southeast,13237.798791345394,Seguimiento Estándar
+66c704b708d9f941,24,male,33.63,Obesidad I,4,no,northeast,6974.4334094067,Seguimiento Estándar
+a4e7766a6085fa86,31,male,27.645,Sobrepeso,2,no,northeast,5527.078743346401,Seguimiento Estándar
+812585cc01347ff3,39,female,22.8,Normal,3,no,northeast,7926.7188312064645,Seguimiento Estándar
+b7e342dd4d08fab8,47,female,27.83,Sobrepeso,0,yes,southeast,23815.326848906683,Atención Preventiva Prioritaria
+8432a59cb86ec482,30,male,37.43,Obesidad II,3,no,northeast,5552.040650445596,Seguimiento Estándar
+a0aa85e847d06bea,18,male,38.17,Obesidad II,0,yes,southeast,36934.67846688112,Atención Preventiva Prioritaria
+d987b471a863d3ea,22,female,34.58,Obesidad I,2,no,northeast,5020.754948569423,Seguimiento Estándar
+0a9aba13bbce2539,23,male,35.2,Obesidad II,1,no,southwest,3428.3448716143516,Seguimiento Estándar
+6d0daf5dbdfeca04,33,male,27.1,Sobrepeso,1,yes,southwest,19165.715111205758,Seguimiento Estándar
+5a3cd66e5875df56,27,male,26.03,Sobrepeso,0,no,northeast,3027.8118376012453,Seguimiento Estándar
+76f9de098808862a,45,female,25.175,Sobrepeso,2,no,northeast,8954.252934446224,Seguimiento Estándar
+d3d84ac05ced9337,57,female,31.825,Obesidad I,0,no,northwest,12267.942924322919,Seguimiento Estándar
+dcb77f705a756e85,47,male,32.3,Obesidad I,1,no,southwest,9277.534520239116,Seguimiento Estándar
+82a012d27d035c19,42,female,29.0,Sobrepeso,1,no,southwest,7107.764401596631,Seguimiento Estándar
+d16c008d1727f2b4,64,female,39.7,Obesidad II,0,no,southwest,13983.27263988555,Seguimiento Estándar
+672ee7ceea711944,38,female,19.475,Normal,2,no,northwest,7013.113037258045,Seguimiento Estándar
+bf61353e9fc5a5c1,61,male,36.1,Obesidad II,3,no,southwest,18831.47162486662,Seguimiento Estándar
+16d2ceb3679984ad,53,female,26.7,Sobrepeso,2,no,southwest,12471.817340974303,Seguimiento Estándar
+5ea8a3ffb54736f1,44,female,36.48,Obesidad II,0,no,northeast,9175.14688183896,Seguimiento Estándar
+40d98b4727139b6f,19,female,28.88,Sobrepeso,0,yes,northwest,17276.82731144082,Seguimiento Estándar
+1356e4043be963e7,41,male,34.2,Obesidad I,2,no,northwest,7669.945663947545,Seguimiento Estándar
+47474ef550a7bb3c,51,male,33.33,Obesidad I,3,no,southeast,10664.218670933158,Seguimiento Estándar
+16b8f7bb9a590d54,40,male,32.3,Obesidad I,2,no,northwest,7468.590261585493,Seguimiento Estándar
+0e2dd6c2cbc6b0ea,45,male,39.805,Obesidad II,0,no,northeast,8776.599009806128,Seguimiento Estándar
+27f83e41f52e7b3b,35,male,34.32,Obesidad I,3,no,southeast,6077.799393882481,Seguimiento Estándar
+946dd5f3038bc3c7,53,male,28.88,Sobrepeso,0,no,northwest,11405.147346845382,Seguimiento Estándar
+0f276e8f7c17df9d,30,male,24.4,Normal,3,yes,southwest,18088.192455288096,Seguimiento Estándar
+e0213fe600b58ff4,18,male,41.14,Obesidad III,0,no,southeast,1686.7815889662788,Seguimiento Estándar
+e8e3b2d8ad5e82e5,51,male,35.97,Obesidad II,1,no,southeast,9855.675174475542,Seguimiento Estándar
+e77bb1c7532abbd2,50,female,27.6,Sobrepeso,1,yes,southwest,24271.69496217314,Atención Preventiva Prioritaria
+594a197ae2386430,31,female,29.26,Sobrepeso,1,no,southeast,4845.92217307257,Seguimiento Estándar
+c852c7da67f0ea7e,35,female,27.7,Sobrepeso,3,no,southwest,6364.212533849248,Seguimiento Estándar
+2d77b6ce623a432b,60,male,36.955,Obesidad II,0,no,northeast,14010.08973232722,Seguimiento Estándar
+bc064e6cd9f1156c,21,male,36.86,Obesidad II,0,no,northwest,2079.825753794409,Seguimiento Estándar
+9730849ab57e8efa,29,male,22.515,Normal,3,no,northeast,5702.393823992818,Seguimiento Estándar
+f94448155056dc05,62,female,29.92,Sobrepeso,0,no,southeast,13826.79332452577,Seguimiento Estándar
+743bcf15950a6f99,39,female,41.8,Obesidad III,0,no,southeast,6578.478118004637,Seguimiento Estándar
+1ab4268d5e6d0f62,19,male,27.6,Sobrepeso,0,no,southwest,1727.1551491522393,Seguimiento Estándar
+f887fe714c6b3910,22,female,23.18,Normal,0,no,northeast,2349.558206421901,Seguimiento Estándar
+1b2eaed8cdc75101,53,male,20.9,Normal,0,yes,southeast,23134.78081416739,Atención Preventiva Prioritaria
+05d6732af386c883,39,female,31.92,Obesidad I,2,no,northwest,7260.077652224769,Seguimiento Estándar
+385fc63c683f8b08,27,male,28.5,Sobrepeso,0,yes,northwest,19392.90870602013,Seguimiento Estándar
+24e79b2212c5ac2a,30,male,44.22,Obesidad III,2,no,southeast,4920.117514983529,Seguimiento Estándar
+21ca0f15b612c3a2,30,female,22.895,Normal,1,no,northeast,5628.169302560772,Seguimiento Estándar
+a0f79eaec2038a09,58,female,33.1,Obesidad I,0,no,southwest,11961.485021752625,Seguimiento Estándar
+9d22ddc1b8c82cd5,33,male,24.795,Normal,0,yes,northeast,18399.320796921784,Seguimiento Estándar
+fd5b1fd529a235ba,42,female,26.18,Sobrepeso,1,no,southeast,7091.522401543314,Seguimiento Estándar
+d223db59a2fdcc43,64,female,35.97,Obesidad II,0,no,southeast,14149.986600866376,Seguimiento Estándar
+d10f97eb4755dde6,21,male,22.3,Normal,1,no,southwest,2294.17726272972,Seguimiento Estándar
+654bbe1fb5dac4f1,18,female,42.24,Obesidad III,0,yes,southeast,37758.46750997187,Atención Preventiva Prioritaria
+5c56e676f0514b4a,23,male,26.51,Sobrepeso,0,no,southeast,2594.854280532303,Seguimiento Estándar
+5ea93335286efe9c,45,female,35.815,Obesidad II,0,no,northwest,9008.634152151859,Seguimiento Estándar
+258f0c2ce96e7411,40,female,41.42,Obesidad III,1,no,northwest,9078.315574129783,Seguimiento Estándar
+8582f6ca6ce8979b,19,female,36.575,Obesidad II,0,no,northwest,2240.7669432282423,Seguimiento Estándar
+268078b71382d5eb,18,male,30.14,Obesidad I,0,no,southeast,2010.05144706315,Seguimiento Estándar
+c6cbd0c8a84af8c0,25,male,25.84,Sobrepeso,1,no,northeast,4395.410336403621,Seguimiento Estándar
+2efc52f834fc1748,46,female,30.8,Obesidad I,3,no,southwest,9333.462729481515,Seguimiento Estándar
+31d12c6d66e8f8b2,33,female,42.94,Obesidad III,3,no,northwest,6059.260970212889,Seguimiento Estándar
+850986331b96a4f2,54,male,21.01,Normal,2,no,southeast,11657.370184245861,Seguimiento Estándar
+8ff4831b682572ca,28,male,22.515,Normal,2,no,northeast,5562.802906591254,Seguimiento Estándar
+2e384b8d0da9977c,36,male,34.43,Obesidad I,2,no,southeast,5862.273184113271,Seguimiento Estándar
+19c27fbf8fd562fa,20,female,31.46,Obesidad I,0,no,southeast,2471.366633425154,Seguimiento Estándar
+96ee48bbfd0eece5,24,female,24.225,Normal,0,no,northwest,3650.9596819064936,Seguimiento Estándar
+d2ccb42985e16ef4,23,male,37.1,Obesidad II,3,no,southwest,4364.173524647938,Seguimiento Estándar
+ca10783cdaa5d010,47,female,26.125,Sobrepeso,1,yes,northeast,23735.96875820003,Atención Preventiva Prioritaria
+ad7c60b641871393,33,female,35.53,Obesidad II,0,yes,northwest,39072.553010789146,Atención Preventiva Prioritaria
+8155cd6f42c8c769,45,male,33.7,Obesidad I,1,no,southwest,8231.906780890575,Seguimiento Estándar
+e2fab51bdd67e2e5,26,male,17.67,Bajo peso,0,no,northwest,3894.272765737924,Seguimiento Estándar
+1eb21ad261364bb7,18,female,31.13,Obesidad I,0,no,southeast,2314.3713069023956,Seguimiento Estándar
+2855af2948b6cf71,44,female,29.81,Sobrepeso,2,no,southeast,9508.453365487063,Seguimiento Estándar
+ce8457cfeb628c03,60,male,24.32,Normal,0,no,northwest,13367.433638658453,Seguimiento Estándar
+4db7d682d9aea558,64,female,31.825,Obesidad I,2,no,northeast,16835.93858296902,Seguimiento Estándar
+8dbdcb627b3a5ee2,56,male,31.79,Obesidad I,2,yes,southeast,44053.91921255853,Atención Preventiva Prioritaria
+3b803bcdda3ebc16,36,male,28.025,Sobrepeso,1,yes,northeast,20170.86213398253,Atención Preventiva Prioritaria
+852918d444c9d87d,41,male,30.78,Obesidad I,3,yes,northeast,39374.96057001218,Atención Preventiva Prioritaria
+b058270895172e73,39,male,21.85,Normal,1,no,northwest,6909.571811197677,Seguimiento Estándar
+eb0774a00f195816,63,male,33.1,Obesidad I,0,no,southwest,13593.442737273666,Seguimiento Estándar
+67058bf95845aaf6,36,female,25.84,Sobrepeso,0,no,northwest,5089.083636083752,Seguimiento Estándar
+8254f0fc9edd0975,28,female,23.845,Normal,2,no,northwest,5855.074839891818,Seguimiento Estándar
+c23507892caa9344,58,male,34.39,Obesidad I,0,no,northwest,12268.0940000214,Seguimiento Estándar
+4909311d9eeb2e49,36,male,33.82,Obesidad I,1,no,northwest,5617.83612196088,Seguimiento Estándar
+aa8ac5740f21f2c4,42,male,35.97,Obesidad II,2,no,southeast,7714.770445890388,Seguimiento Estándar
+2480c78072dd5486,36,male,31.5,Obesidad I,0,no,southwest,5292.296888069341,Seguimiento Estándar
+07d2b0266be03260,56,female,28.31,Sobrepeso,0,no,northeast,12197.685487151915,Seguimiento Estándar
+31532d5d315bd9c7,35,female,23.465,Normal,2,no,northeast,6816.961120479643,Seguimiento Estándar
+39f6c3abca0b74b7,59,female,31.35,Obesidad I,0,no,northwest,13059.139180701652,Seguimiento Estándar
+8ff527940a101250,21,male,31.1,Obesidad I,0,no,southwest,2664.2224414638076,Seguimiento Estándar
+6437dae4e50258ac,59,male,24.7,Normal,0,no,northeast,12782.400329112705,Seguimiento Estándar
+39dd6ff5057cc2de,23,female,32.78,Obesidad I,2,yes,southeast,35936.76022203601,Atención Preventiva Prioritaria
+b62f8a14fc208dfc,57,female,29.81,Sobrepeso,0,yes,southeast,26857.186323887396,Atención Preventiva Prioritaria
+3866f3c23ae1bf20,53,male,30.495,Obesidad I,0,no,northeast,11567.164740906035,Seguimiento Estándar
+5167329a76945ee2,60,female,32.45,Obesidad I,0,yes,southeast,45662.641652879145,Atención Preventiva Prioritaria
+c3f47358d7bfd4e2,51,female,34.2,Obesidad I,1,no,southwest,10551.965419800328,Seguimiento Estándar
+118bfab6e21c65f7,23,male,50.38,Obesidad III,1,no,southeast,3447.0022015605864,Seguimiento Estándar
+7ad6e4a4db52f261,27,female,24.1,Normal,0,no,southwest,3987.858361877323,Seguimiento Estándar
+259655034555eccb,55,male,32.775,Obesidad I,0,no,northwest,11694.986574615039,Seguimiento Estándar
+1f980a84d3ba3612,37,female,30.78,Obesidad I,0,yes,northeast,37563.81559615158,Atención Preventiva Prioritaria
+b3772286605b8feb,61,male,32.3,Obesidad I,2,no,northwest,16009.231215316839,Seguimiento Estándar
+e4712ee2c5862199,46,female,35.53,Obesidad II,0,yes,northeast,42637.565039719826,Atención Preventiva Prioritaria
+a53c6469ec563b52,53,female,23.75,Normal,2,no,northeast,12156.101850014664,Seguimiento Estándar
+b8c33cb307498709,49,female,23.845,Normal,3,yes,northeast,23711.546403842043,Atención Preventiva Prioritaria
+57a60f55dea4dd98,20,female,29.6,Sobrepeso,0,no,southwest,2152.1283724191107,Seguimiento Estándar
+704f277425fc714a,48,female,33.11,Obesidad I,0,yes,southeast,42572.21478900685,Atención Preventiva Prioritaria
+5bf66ca7981b1f9e,25,male,24.13,Normal,0,yes,northwest,16674.265702052704,Seguimiento Estándar
+4accfcacbd5b953a,25,female,32.23,Obesidad I,1,no,southeast,5348.609081631058,Seguimiento Estándar
+b27a1b5da0b089fc,57,male,28.1,Sobrepeso,0,no,southwest,11635.995103933177,Seguimiento Estándar
+32044c5b5337f083,37,female,47.6,Obesidad III,2,yes,southwest,43586.4587965047,Atención Preventiva Prioritaria
+f80bfc8cea09ec28,38,female,28.0,Sobrepeso,3,no,southwest,6782.661289304501,Seguimiento Estándar
+92ba6f42cf9b9f0a,55,female,33.535,Obesidad I,2,no,northwest,13151.30889648971,Seguimiento Estándar
+cddac463afba5251,36,female,19.855,Normal,0,no,northeast,5552.609894238754,Seguimiento Estándar
+f807d9cb152c42ae,51,male,25.4,Sobrepeso,0,no,southwest,11224.835637930386,Seguimiento Estándar
+ac721afaabd0dc2f,40,male,29.9,Sobrepeso,2,no,southwest,7280.414669194659,Seguimiento Estándar
+3ed6d14e969c07f5,18,male,37.29,Obesidad II,0,no,southeast,1613.3601230733343,Seguimiento Estándar
+9eb46ff3205954d8,57,male,43.7,Obesidad III,1,no,southwest,12121.052020108571,Seguimiento Estándar
+0784a7bf8a5e79a0,61,male,23.655,Normal,0,no,northeast,13349.62198790582,Seguimiento Estándar
+998a3af25897b003,25,female,24.3,Normal,3,no,southwest,6158.052462134469,Seguimiento Estándar
+a973edb618cd642e,50,male,36.2,Obesidad II,0,no,southwest,9823.901356794031,Seguimiento Estándar
+ffa73d1e08985dde,26,female,29.48,Sobrepeso,1,no,southeast,4614.264166377551,Seguimiento Estándar
+02a73296756e93c7,42,male,24.86,Normal,0,no,southeast,6301.482413506335,Seguimiento Estándar
+4ff542d881c4bf8f,43,male,30.1,Obesidad I,1,no,southwest,7840.508477539731,Seguimiento Estándar
+9ec813dc1e41592e,44,male,21.85,Normal,3,no,northeast,8462.457905637026,Seguimiento Estándar
+cc0b9e4cb65a8842,23,female,28.12,Sobrepeso,0,no,northwest,4458.390957782762,Seguimiento Estándar
+db224b8531690514,49,female,27.1,Sobrepeso,1,no,southwest,12466.029534823152,Seguimiento Estándar
+ffbdcbc9d94d5c02,33,male,33.44,Obesidad I,5,no,southeast,6573.737941811157,Seguimiento Estándar
+55fc0e539b2a19ed,41,male,28.8,Sobrepeso,1,no,southwest,6886.066994469875,Seguimiento Estándar
+1f9f48122ed4ab22,37,female,29.5,Sobrepeso,2,no,southwest,6808.259755835383,Seguimiento Estándar
+dbf0db5936c0386e,22,male,34.8,Obesidad I,3,no,southwest,4522.824904191673,Seguimiento Estándar
+199935ecc7f7ff19,23,male,27.36,Sobrepeso,1,no,northwest,3979.899665706018,Seguimiento Estándar
+2dbfb0b3e690ca60,21,female,22.135,Normal,0,no,northeast,2292.5739389992987,Seguimiento Estándar
+d9ae89bbd42588a1,51,female,37.05,Obesidad II,3,yes,northeast,45959.136860910934,Atención Preventiva Prioritaria
+e1acd5e08c0ce52a,25,male,26.695,Sobrepeso,4,no,northwest,6214.779643089386,Seguimiento Estándar
+4e332284ddd38ca0,32,male,28.93,Sobrepeso,1,yes,southeast,19447.92121215725,Seguimiento Estándar
+2e93c52cd6a4920b,57,male,28.975,Sobrepeso,0,yes,northeast,26533.768223530136,Atención Preventiva Prioritaria
+d86e3c4001f03ed5,36,female,30.02,Obesidad I,0,no,northwest,5214.457674800519,Seguimiento Estándar
+466979f6281d706b,22,male,39.5,Obesidad II,0,no,southwest,2171.098535033385,Seguimiento Estándar
+dd5821bdeefd0086,57,male,33.63,Obesidad I,1,no,northwest,12158.827814020617,Seguimiento Estándar
+d129d9cfa95ab492,64,female,26.885,Sobrepeso,0,yes,northwest,28351.908086719963,Atención Preventiva Prioritaria
+0d28b5b748439e9a,36,female,29.04,Sobrepeso,4,no,southeast,6859.712807413002,Seguimiento Estándar
+9c07c90779450c2c,54,male,24.035,Normal,0,no,northeast,11627.620796201714,Seguimiento Estándar
+aef653762ab4ec94,47,male,38.94,Obesidad II,2,yes,southeast,44601.98000330603,Atención Preventiva Prioritaria
+738e32f21c832b71,62,male,32.11,Obesidad I,0,no,northeast,13592.383485698245,Seguimiento Estándar
+4241591c94a203fb,61,female,44.0,Obesidad III,0,no,southwest,13598.65128921373,Seguimiento Estándar
+28678695d94f04c7,43,female,20.045,Normal,2,yes,northeast,19344.046035899846,Seguimiento Estándar
+b7a4bf0e24957ea0,19,male,25.555,Sobrepeso,1,no,northwest,2391.096906184501,Seguimiento Estándar
+c5a5bc18060fee26,18,female,40.26,Obesidad III,0,no,southeast,1884.012423397254,Seguimiento Estándar
+33cef868c303f72e,19,female,22.515,Normal,0,no,northwest,2062.4666459468817,Seguimiento Estándar
+3ed00bb7f8fcca83,49,male,22.515,Normal,0,no,northeast,9530.982528762052,Seguimiento Estándar
+28b68b2778419b1f,60,male,40.92,Obesidad III,0,yes,southeast,48186.19421171553,Atención Preventiva Prioritaria
+5cf37748f5fb7e5c,26,male,27.265,Sobrepeso,3,no,northeast,5242.65610866044,Seguimiento Estándar
+9f1feae66eff0fca,49,male,36.85,Obesidad II,0,no,southeast,9462.790819848258,Seguimiento Estándar
+4ed9165eb0bbda8e,60,female,35.1,Obesidad II,0,no,southwest,13676.135431485724,Seguimiento Estándar
+d8eb50079597055e,26,female,29.355,Sobrepeso,2,no,northeast,5728.383269180191,Seguimiento Estándar
+68103231fe831b25,27,male,32.585,Obesidad I,3,no,northeast,5264.7117703076065,Seguimiento Estándar
+a978db581b258156,44,female,32.34,Obesidad I,1,no,southeast,8541.418697766814,Seguimiento Estándar
+92209be05367aac9,63,male,39.8,Obesidad II,3,no,southwest,15930.275691281875,Seguimiento Estándar
+bb85a7a3451f88ab,32,female,24.6,Normal,0,yes,southwest,17873.822281737604,Seguimiento Estándar
+3fc1780a24edadd5,22,male,28.31,Sobrepeso,1,no,northwest,3026.799114151499,Seguimiento Estándar
+185ce3ac355527db,18,male,31.73,Obesidad I,0,yes,northeast,34233.67510509543,Atención Preventiva Prioritaria
+120ebb093a3d8da9,59,female,26.695,Sobrepeso,3,no,northwest,14073.020676864668,Seguimiento Estándar
+0579cf5bb455952d,44,female,27.5,Sobrepeso,1,no,southwest,7927.847198014993,Seguimiento Estándar
+f54559b989b879a3,33,male,24.605,Normal,2,no,northwest,6179.539369756191,Seguimiento Estándar
+abe7bef14ba65d83,24,female,33.99,Obesidad I,0,no,southeast,3355.4805385538425,Seguimiento Estándar
+24ce684ffff4eb51,43,female,26.885,Sobrepeso,0,yes,northwest,22439.748529666667,Atención Preventiva Prioritaria
+897ef37b93021275,45,male,22.895,Normal,0,yes,northeast,23456.49421577318,Atención Preventiva Prioritaria
+8dd0ba202f637a34,61,female,28.2,Sobrepeso,0,no,southwest,13186.199063221704,Seguimiento Estándar
+dac4dd2e1d60c00c,35,female,34.21,Obesidad I,1,no,southeast,5517.139098041437,Seguimiento Estándar
+5cad9145baf1fc36,62,female,25.0,Normal,0,no,southwest,14595.021136642956,Seguimiento Estándar
+4f7bfced3919b9f0,62,female,33.2,Obesidad I,0,no,southwest,13638.052170543593,Seguimiento Estándar
+ac045e945d5f49cc,38,male,31.0,Obesidad I,1,no,southwest,6377.40387408595,Seguimiento Estándar
+baabeadcec467734,34,male,35.815,Obesidad II,0,no,northwest,5067.397649792831,Seguimiento Estándar
+86798520657064f7,43,male,23.2,Normal,0,no,southwest,6948.544327423911,Seguimiento Estándar
+38e2f7040b54b0f7,50,male,32.11,Obesidad I,2,no,northeast,10486.176947646974,Seguimiento Estándar
+31e92e3b86416b97,19,female,23.4,Normal,2,no,southwest,3787.1829663942144,Seguimiento Estándar
+35c6156cb605b827,57,female,20.1,Normal,1,no,southwest,11885.04072859645,Seguimiento Estándar
+34fe2bb3ff129da5,62,female,39.16,Obesidad II,0,no,southeast,13983.111811848195,Seguimiento Estándar
+b8a30f289af98c34,41,male,34.21,Obesidad I,1,no,southeast,7157.711669636487,Seguimiento Estándar
+75b7555ac204d96f,26,male,46.53,Obesidad III,1,no,southeast,3599.826961804482,Seguimiento Estándar
+c03f1154794ee3a2,39,female,32.5,Obesidad I,1,no,southwest,6865.933088384404,Seguimiento Estándar
+25608b53bcb8bcf5,46,male,25.8,Sobrepeso,5,no,southwest,9903.755800475023,Seguimiento Estándar
+76c4fa189285105a,45,female,35.3,Obesidad II,0,no,southwest,8957.950096119686,Seguimiento Estándar
+7ceddc008b4d5445,32,male,37.18,Obesidad II,2,no,southeast,5334.083255381317,Seguimiento Estándar
+7fe3359888aaaa0f,59,female,27.5,Sobrepeso,0,no,southwest,12930.925941238898,Seguimiento Estándar
+e6f88172a32208a6,44,male,29.735,Sobrepeso,2,no,northeast,10840.628761618136,Seguimiento Estándar
+d466078e13bd1436,39,female,24.225,Normal,5,no,northwest,8249.992138537997,Seguimiento Estándar
+a6625129bd380a51,18,male,26.18,Sobrepeso,2,no,southeast,3647.032018215175,Seguimiento Estándar
+e95e4045a92c175f,53,male,29.48,Sobrepeso,0,no,southeast,11612.859054614473,Seguimiento Estándar
+1e57f00761bafd86,18,male,23.21,Normal,0,no,southeast,1581.406159386402,Seguimiento Estándar
+ea58392b2bfc214b,50,female,46.09,Obesidad III,1,no,southeast,9887.849860139731,Seguimiento Estándar
+632907f1d0dea5cc,18,female,40.185,Obesidad III,0,no,northeast,2271.925543402697,Seguimiento Estándar
+3cbff6923264317d,19,male,22.61,Normal,0,no,northwest,1747.7804558472271,Seguimiento Estándar
+3abb3ef22cf95d4f,62,male,39.93,Obesidad II,0,no,southeast,13752.736258010716,Seguimiento Estándar
+724bf726969c2c10,56,female,35.8,Obesidad II,1,no,southwest,12122.84039517333,Seguimiento Estándar
+f077146e147c0b6f,42,male,35.8,Obesidad II,2,no,southwest,7634.791264332655,Seguimiento Estándar
+0ccb8a75a2e5433e,37,male,34.2,Obesidad I,1,yes,northeast,39574.367680205476,Atención Preventiva Prioritaria
+e1a5c2ca9aaf203a,42,male,31.255,Obesidad I,0,no,northwest,7150.181067114601,Seguimiento Estándar
+19b312db72703879,25,male,29.7,Sobrepeso,3,yes,southwest,18717.86185044967,Seguimiento Estándar
+60adb35f38dd395f,57,male,18.335,Bajo peso,0,no,northeast,9649.297827923072,Seguimiento Estándar
+77fe4ed72141d857,51,male,42.9,Obesidad III,2,yes,southeast,47187.72917346967,Atención Preventiva Prioritaria
+4188345a6abb13eb,30,female,28.405,Sobrepeso,1,no,northwest,5046.574691563562,Seguimiento Estándar
+aa7be85e934152c9,44,male,30.2,Obesidad I,2,yes,southwest,40014.57247040454,Atención Preventiva Prioritaria
+eae05813104f83b6,34,male,27.835,Sobrepeso,1,yes,northwest,19796.40083935133,Seguimiento Estándar
+0dddc0c1f71b9631,31,male,39.49,Obesidad II,1,no,southeast,4890.82621635234,Seguimiento Estándar
+4fdb3d98eba9b243,54,male,30.8,Obesidad I,1,yes,southeast,43327.85370320402,Atención Preventiva Prioritaria
+69b284ec0351542d,24,male,26.79,Sobrepeso,1,no,northwest,4681.05624831014,Seguimiento Estándar
+189ff0dfc573d450,43,male,34.96,Obesidad I,1,yes,northeast,40872.42936398171,Atención Preventiva Prioritaria
+92582f5189722aee,48,male,36.67,Obesidad II,1,no,northwest,11297.95960534512,Seguimiento Estándar
+9b3a7a04bfcca2d2,19,female,39.615,Obesidad II,1,no,northwest,3398.2430105462413,Seguimiento Estándar
+adf55a1d8bf773c8,29,female,25.9,Sobrepeso,0,no,southwest,3950.3993752097585,Seguimiento Estándar
+61a0429e7380e24f,63,female,35.2,Obesidad II,1,no,southeast,15604.678190770688,Seguimiento Estándar
+371bd87c98f67bc4,46,male,24.795,Normal,3,no,northeast,9583.942468001364,Seguimiento Estándar
+f2ebe4b6883bac3f,52,male,36.765,Obesidad II,2,no,northwest,14609.524773739357,Seguimiento Estándar
+bfbe0934dfb51536,35,male,27.1,Sobrepeso,1,no,southwest,5513.13711575017,Seguimiento Estándar
+bf5dc728cb59e3ba,51,male,24.795,Normal,2,yes,northwest,23990.865437542136,Atención Preventiva Prioritaria
+90f5bde454abf940,44,male,25.365,Sobrepeso,1,no,northwest,7836.046757757068,Seguimiento Estándar
+d96369bea0c91eee,21,male,25.745,Sobrepeso,2,no,northeast,4817.49545700903,Seguimiento Estándar
+10269a3d7566ac6b,39,female,34.32,Obesidad I,5,no,southeast,9331.750288760546,Seguimiento Estándar
+b55e5822362bee50,50,female,28.16,Sobrepeso,3,no,southeast,11883.087228815846,Seguimiento Estándar
+37ad06c77145fbe7,34,female,23.56,Normal,0,no,northeast,5144.822145166685,Seguimiento Estándar
+c26c71f384d02ab3,22,female,20.235,Normal,0,no,northwest,2338.151658971096,Seguimiento Estándar
+c8be2b777a6f48a6,19,female,40.5,Obesidad III,0,no,southwest,2052.7217703079377,Seguimiento Estándar
+d9834d7c81002dd7,26,male,35.42,Obesidad II,0,no,southeast,2716.0732230977014,Seguimiento Estándar
+f8be4ff92585f162,29,male,22.895,Normal,0,yes,northeast,16721.12051469438,Seguimiento Estándar
+77a841285588f8d5,48,male,40.15,Obesidad III,0,no,southeast,9324.788046387408,Seguimiento Estándar
+e9c51ec6fe0f7abc,26,male,29.15,Sobrepeso,1,no,southeast,4063.8498288215956,Seguimiento Estándar
+993d6cae3ede29f4,45,female,39.995,Obesidad II,3,no,northeast,9507.370426157047,Seguimiento Estándar
+f0cbd8ae639c8c6b,36,female,29.92,Sobrepeso,0,no,southeast,4996.244393943175,Seguimiento Estándar
+7a58b7ec27c6a755,54,male,25.46,Sobrepeso,1,no,northeast,12021.70552925438,Seguimiento Estándar
+688f58b502307244,34,male,21.375,Normal,0,no,northeast,5729.168102074177,Seguimiento Estándar
+2c5fce944d15aefb,31,male,25.9,Sobrepeso,3,yes,southwest,18554.131879071225,Seguimiento Estándar
+bfc45b744b8c9a1d,27,female,30.59,Obesidad I,1,no,northeast,5194.546432821013,Seguimiento Estándar
+b9324c26b40d1708,20,male,30.115,Obesidad I,5,no,northeast,4949.706330341902,Seguimiento Estándar
+b5809a2a617f9c7d,44,female,25.8,Sobrepeso,1,no,southwest,8038.217676913476,Seguimiento Estándar
+bc44e8eeaa9ba716,43,male,30.115,Obesidad I,3,no,northwest,8749.767602323624,Seguimiento Estándar
+5df0c7d066c3a241,45,female,27.645,Sobrepeso,1,no,northwest,8148.262424305092,Seguimiento Estándar
+145a5ec76ed3186e,34,male,34.675,Obesidad I,0,no,northeast,4841.549547057513,Seguimiento Estándar
+e86ee28c956b03a7,24,female,20.52,Normal,0,yes,northeast,15440.368174391535,Seguimiento Estándar
+ac7e19dea99ec697,26,female,19.8,Normal,1,no,southwest,3986.0178170075137,Seguimiento Estándar
+b4ec9ee9484f4eec,38,female,27.835,Sobrepeso,2,no,northeast,6714.682011006878,Seguimiento Estándar
+594d603b7c6dfd48,50,female,31.6,Obesidad I,2,no,southwest,10657.374811797461,Seguimiento Estándar
+f9060a3b0f1c1ef7,38,male,28.27,Sobrepeso,1,no,southeast,6039.550093282543,Seguimiento Estándar
+1fa45dd9b42b83b1,27,female,20.045,Normal,3,yes,northwest,15977.991899654086,Seguimiento Estándar
+2f183a05eeb245de,39,female,23.275,Normal,3,no,northeast,7790.313165704543,Seguimiento Estándar
+96b1fed35bc01a16,39,female,34.1,Obesidad I,3,no,southwest,8452.515160588882,Seguimiento Estándar
+0d6ab8a9448bc244,63,female,36.85,Obesidad II,0,no,southeast,14089.014854970363,Seguimiento Estándar
+bb8434bcf456c169,33,female,36.29,Obesidad II,3,no,northeast,5917.6579874496565,Seguimiento Estándar
+7f2ab0b313acc049,36,female,26.885,Sobrepeso,0,no,northwest,5210.52305512754,Seguimiento Estándar
+30258679e7604806,30,male,22.99,Normal,2,yes,northwest,17731.80196127855,Seguimiento Estándar
+1826219ddf33a55c,24,male,32.7,Obesidad I,0,yes,southwest,35121.992781407236,Atención Preventiva Prioritaria
+bdb980aafcd492a1,24,male,25.8,Sobrepeso,0,no,southwest,2546.366156012855,Seguimiento Estándar
+c9435e4447579174,48,male,29.6,Sobrepeso,0,no,southwest,11012.98644713422,Seguimiento Estándar
+a89def571c32216b,47,male,19.19,Normal,1,no,northeast,8526.960548372517,Seguimiento Estándar
+ed74e4a9cdc2e147,29,male,31.73,Obesidad I,2,no,northwest,5585.291659911669,Seguimiento Estándar
+6b168a5ed9cb2d81,28,male,29.26,Sobrepeso,2,no,northeast,5320.764307379879,Seguimiento Estándar
+848318e53c762707,47,male,28.215,Sobrepeso,3,yes,northwest,25096.497957307936,Atención Preventiva Prioritaria
+5e16669f45f73810,25,male,24.985,Normal,2,no,northeast,6705.536343087743,Seguimiento Estándar
+6303826800df8dae,51,male,27.74,Sobrepeso,1,no,northeast,11034.550962388385,Seguimiento Estándar
+e1b299f8d4392764,48,female,22.8,Normal,0,no,southwest,9703.63231952143,Seguimiento Estándar
+5f9792bd99727aa1,43,male,20.13,Normal,2,yes,southeast,19321.084067883075,Seguimiento Estándar
+3048904a3710bb68,61,female,33.33,Obesidad I,4,no,southeast,19670.703266152916,Seguimiento Estándar
+29b02936e4d77752,48,male,32.3,Obesidad I,1,no,northwest,10128.431128701923,Seguimiento Estándar
+8d0e3d79f81d326b,38,female,27.6,Sobrepeso,0,no,southwest,5942.472089001823,Seguimiento Estándar
+b4ab4505a49b0613,59,male,25.46,Sobrepeso,0,no,northwest,12896.885711348956,Seguimiento Estándar
+b9f5d64e5dbb44fa,19,female,24.605,Normal,1,no,northwest,2608.8560242973476,Seguimiento Estándar
+b4793ad960db2362,26,female,34.2,Obesidad I,2,no,southwest,4472.71899451352,Seguimiento Estándar
+641a894fe686e5cd,54,female,35.815,Obesidad II,3,no,northwest,14368.75235022244,Seguimiento Estándar
+02b1a906ec3b9edf,21,female,32.68,Obesidad I,2,no,northwest,7846.77248185322,Seguimiento Estándar
+07ecb36733df75c5,51,male,37.0,Obesidad II,0,no,southwest,9782.979116208395,Seguimiento Estándar
+0ef60218f55b97de,22,female,31.02,Obesidad I,3,yes,southeast,35146.084338933266,Atención Preventiva Prioritaria
+13fb2118e6a9c84e,47,male,36.08,Obesidad II,1,yes,southeast,42969.5828250194,Atención Preventiva Prioritaria
+11c3449f5cb73888,18,male,23.32,Normal,1,no,southeast,2118.6414124031626,Seguimiento Estándar
+053d81885c70fb88,47,female,45.32,Obesidad III,1,no,southeast,9381.04491780217,Seguimiento Estándar
+e578dd85cbc9f52c,21,female,34.6,Obesidad I,0,no,southwest,2204.4229421515447,Seguimiento Estándar
+73f24024e51de819,19,male,26.03,Sobrepeso,1,yes,northwest,16765.374901905383,Seguimiento Estándar
+9ce2c3bf1d6cbbb2,23,male,18.715,Normal,0,no,northwest,4261.6232751912485,Seguimiento Estándar
+d2b4bb8dba58defb,54,male,31.6,Obesidad I,0,no,southwest,11323.474136897401,Seguimiento Estándar
+182f21f33087d3f1,37,female,17.29,Bajo peso,2,no,northeast,6952.498062103781,Seguimiento Estándar
+1f0ab9852ee7f299,46,female,23.655,Normal,1,yes,northwest,22899.8375657089,Atención Preventiva Prioritaria
+4165a826d56498ee,55,female,35.2,Obesidad II,0,yes,southeast,45003.87880996848,Atención Preventiva Prioritaria
+d0bc12bd05c91b9b,30,female,27.93,Sobrepeso,0,no,northeast,3928.046386503006,Seguimiento Estándar
+157e368ad95114e5,18,male,21.565,Normal,0,yes,northeast,14156.298794670849,Seguimiento Estándar
+ba9fb517a9003144,61,male,38.38,Obesidad II,0,no,northwest,13916.268890446494,Seguimiento Estándar
+8a032a2e0e3a455c,54,female,23.0,Normal,3,no,southwest,12124.734149762338,Seguimiento Estándar
+1018e8ad8d456550,22,male,37.07,Obesidad II,2,yes,southeast,37373.38361804086,Atención Preventiva Prioritaria
+40dd37514aa40c56,45,female,30.495,Obesidad I,1,yes,northwest,42529.81928065221,Atención Preventiva Prioritaria
+376866ef8d63a4a3,22,male,28.88,Sobrepeso,0,no,northeast,2476.002638237631,Seguimiento Estándar
+8b804057ee10e6bc,19,male,27.265,Sobrepeso,2,no,northwest,7494.047119287685,Seguimiento Estándar
+a5f62d0f2119cd04,35,female,28.025,Sobrepeso,0,yes,northwest,19847.51375248994,Seguimiento Estándar
+8569a2678f98feef,18,male,23.085,Normal,0,no,northeast,1672.729459649858,Seguimiento Estándar
+5645b5b461151a9b,20,male,30.685,Obesidad I,0,yes,northeast,33785.13114880579,Atención Preventiva Prioritaria
+84d3ec6e0b1789af,28,female,25.8,Sobrepeso,0,no,southwest,3967.0280169054263,Seguimiento Estándar
+63743c5b21944069,55,male,35.245,Obesidad II,1,no,northeast,11787.318098265678,Seguimiento Estándar
+b93194a83385b839,43,female,24.7,Normal,2,yes,northwest,22003.559922528693,Atención Preventiva Prioritaria
+951ffb83c3954b39,43,female,25.08,Sobrepeso,0,no,northeast,7121.261122319489,Seguimiento Estándar
+ed0e5805e44ef29c,22,male,52.58,Obesidad III,1,yes,southeast,42552.4259285713,Atención Preventiva Prioritaria
+c15a069a7b002737,25,female,22.515,Normal,1,no,northwest,4760.856003615766,Seguimiento Estándar
+5d1119ee504b01e7,49,male,30.9,Obesidad I,0,yes,southwest,41401.25573741598,Atención Preventiva Prioritaria
+085a34f7359b4058,44,female,36.955,Obesidad II,1,no,northwest,8806.603901916871,Seguimiento Estándar
+08fbacc1ce905c8d,64,male,26.41,Sobrepeso,0,no,northeast,13782.288498373775,Seguimiento Estándar
+9a452b6dbbeaca5c,49,male,29.83,Sobrepeso,1,no,northeast,9966.627628920613,Seguimiento Estándar
+bfe467db3eca63fa,47,male,29.8,Sobrepeso,3,yes,southwest,24783.828585907435,Atención Preventiva Prioritaria
+646a6d4253f54709,27,female,21.47,Normal,0,no,northwest,3671.686775983091,Seguimiento Estándar
+a2d5e561b5ed1443,55,male,27.645,Sobrepeso,0,no,northwest,11940.965137821553,Seguimiento Estándar
+45aee492148517fd,48,female,28.9,Sobrepeso,0,no,southwest,10990.09820830421,Seguimiento Estándar
+bc6776d722d7a114,45,female,31.79,Obesidad I,0,no,southeast,9545.567252795594,Seguimiento Estándar
+133f94cc7a6fddba,24,female,39.49,Obesidad II,0,no,southeast,3114.6536468963704,Seguimiento Estándar
+361c0e193801f7b6,32,male,33.82,Obesidad I,1,no,northwest,5028.117024665238,Seguimiento Estándar
+8ef14c4dc6cfe815,24,male,32.01,Obesidad I,0,no,southeast,2688.982300521283,Seguimiento Estándar
+4afb229df84d7c93,57,male,27.94,Sobrepeso,1,no,southeast,12241.45141772164,Seguimiento Estándar
+8c88d69866bf11cd,59,male,41.14,Obesidad III,1,yes,southeast,48301.62663424176,Atención Preventiva Prioritaria
+aab6b8c6c01ff81c,36,male,28.595,Sobrepeso,3,no,northwest,6389.981843066802,Seguimiento Estándar
+66057d89ee5eefc2,29,female,25.6,Sobrepeso,4,no,southwest,5933.941572222938,Seguimiento Estándar
+da53e8a4085efef1,42,female,25.3,Sobrepeso,1,no,southwest,6970.750693248314,Seguimiento Estándar
+244a129d7ab3b8ae,48,male,37.29,Obesidad II,2,no,southeast,9668.135090799593,Seguimiento Estándar
+a75661953f27ab6b,39,male,42.655,Obesidad III,0,no,northeast,7295.711865650309,Seguimiento Estándar
+2d87a8cbb50bf14b,63,male,21.66,Normal,1,no,northwest,14642.189204174952,Seguimiento Estándar
+b36a911d97b4fced,54,female,31.9,Obesidad I,1,no,southeast,12501.960223991431,Seguimiento Estándar
+93c2babe276b22e6,37,male,37.07,Obesidad II,1,yes,southeast,41557.51172881611,Atención Preventiva Prioritaria
+9a4d75c545a0f30a,63,male,31.445,Obesidad I,0,no,northeast,13760.601682474567,Seguimiento Estándar
+f4ede5b6a817d036,21,male,31.255,Obesidad I,0,no,northwest,2494.412319552135,Seguimiento Estándar
+9f26864de181b6c9,54,female,28.88,Sobrepeso,2,no,northeast,12534.790062830954,Seguimiento Estándar
+c91302cd077ab567,60,female,18.335,Bajo peso,0,no,northeast,11695.972856202825,Seguimiento Estándar
+e54d80a57e01464e,32,female,29.59,Sobrepeso,1,no,southeast,5033.744761696489,Seguimiento Estándar
+df0c7ab67ea58f6a,47,female,32.0,Obesidad I,1,no,southwest,9600.154927675185,Seguimiento Estándar
+e8307ca64863e15b,21,male,26.03,Sobrepeso,0,no,northeast,2060.7238129708458,Seguimiento Estándar
+da37dde6edcd9180,28,male,31.68,Obesidad I,0,yes,southeast,35532.495187439126,Atención Preventiva Prioritaria
+2fbc3de376883307,63,male,33.66,Obesidad I,3,no,southeast,17963.53090724982,Seguimiento Estándar
+484bbd2042bf96dd,18,male,21.78,Normal,2,no,southeast,3960.0218512468573,Seguimiento Estándar
+df9fba74612843b1,32,male,27.835,Sobrepeso,1,no,northwest,4914.980346931913,Seguimiento Estándar
+2f52acf309d57d94,38,male,19.95,Normal,1,no,northwest,6769.851432949096,Seguimiento Estándar
+8393ae8079f66931,32,male,31.5,Obesidad I,1,no,southwest,4730.762508414267,Seguimiento Estándar
+8305cde28d5be10f,62,female,30.495,Obesidad I,2,no,northwest,14991.846204374395,Seguimiento Estándar
+830f1b20ed03af2b,39,female,18.3,Bajo peso,5,yes,southwest,17823.771175490776,Seguimiento Estándar
+39cd3a881cf0603d,55,male,28.975,Sobrepeso,0,no,northeast,11804.346648454097,Seguimiento Estándar
+e449569e1686469e,57,male,31.54,Obesidad I,0,no,northwest,12042.783459671635,Seguimiento Estándar
+d9a3a1e466ed04ad,52,male,47.74,Obesidad III,1,no,southeast,10821.232798395868,Seguimiento Estándar
+653f6f0f4ebd793d,56,male,22.1,Normal,0,no,southwest,10974.320971457726,Seguimiento Estándar
+42ad291828eb8a58,47,male,36.19,Obesidad II,0,yes,southeast,43351.75721346894,Atención Preventiva Prioritaria
+cebfda55a29cdf90,55,female,29.83,Sobrepeso,0,no,northeast,12174.944276687369,Seguimiento Estándar
+74ed8c55d7e8919e,23,male,32.7,Obesidad I,3,no,southwest,5217.732093644895,Seguimiento Estándar
+ee9e885f81144594,22,female,30.4,Obesidad I,0,yes,northwest,34180.85314009052,Atención Preventiva Prioritaria
+2d2983d40aa4261d,50,female,33.7,Obesidad I,4,no,southwest,10963.84190986599,Seguimiento Estándar
+9413051ee145cba0,18,female,31.35,Obesidad I,4,no,northeast,5177.450766362329,Seguimiento Estándar
+71e3c3c48a5fd442,51,female,34.96,Obesidad I,2,yes,northeast,44040.92898506907,Atención Preventiva Prioritaria
+f73ff8d9c10c3ba4,22,male,33.77,Obesidad I,0,no,southeast,2414.3765344367157,Seguimiento Estándar
+63f4d8d74769f18e,52,female,30.875,Obesidad I,0,no,northeast,12154.454167553151,Seguimiento Estándar
+989cfb0ba66e25e5,25,female,33.99,Obesidad I,1,no,southeast,4169.116840661092,Seguimiento Estándar
+bfadc676870c0a57,33,female,19.095,Normal,2,yes,northeast,16485.16002106419,Seguimiento Estándar
+8e34c2c34bd6dc0b,53,male,28.6,Sobrepeso,3,no,southwest,11520.831310710095,Seguimiento Estándar
+2cd710975d072c63,29,male,38.94,Obesidad II,1,no,southeast,4389.874588108885,Seguimiento Estándar
+a973cd9e16a75dc8,58,male,36.08,Obesidad II,0,no,southeast,12400.313024962346,Seguimiento Estándar
+01b2c8c3cc89a289,37,male,29.8,Sobrepeso,0,no,southwest,7564.10939202073,Seguimiento Estándar
+559d69028a179a2b,54,female,31.24,Obesidad I,0,no,southeast,12363.20447901066,Seguimiento Estándar
+ff0ae942f226c134,49,female,29.925,Sobrepeso,0,no,northwest,10207.03719218721,Seguimiento Estándar
+31fd0a5cfb305508,50,female,26.22,Sobrepeso,2,no,northwest,11901.648932231084,Seguimiento Estándar
+b613ba8995ceb727,26,male,30.0,Sobrepeso,1,no,southwest,3821.755109683012,Seguimiento Estándar
+4dccc2dadc9e7f22,45,male,20.35,Normal,3,no,southeast,8565.545016313166,Seguimiento Estándar
+19c208b7895e6770,54,female,32.3,Obesidad I,1,no,northeast,12149.924089122525,Seguimiento Estándar
+23b06d4f3f5a347b,38,male,38.39,Obesidad II,3,yes,southeast,42162.207738692254,Atención Preventiva Prioritaria
+dc1c0600178264c9,48,female,25.85,Sobrepeso,3,yes,southeast,24436.625725399685,Atención Preventiva Prioritaria
+f0fe670ceaa662be,28,female,26.315,Sobrepeso,3,no,northwest,5702.9393507701225,Seguimiento Estándar
+4ab3de05de74dab9,23,male,24.51,Normal,0,no,northeast,2850.664024347386,Seguimiento Estándar
+73b6932bbe742792,55,male,32.67,Obesidad I,1,no,southeast,11710.31161642529,Seguimiento Estándar
+fd4a38faa8deb893,41,male,29.64,Sobrepeso,5,no,northeast,8819.515102953548,Seguimiento Estándar
+9d758b036fd3577f,25,male,33.33,Obesidad I,2,yes,southeast,36199.81198079568,Atención Preventiva Prioritaria
+b5b399396d234375,33,male,35.75,Obesidad II,1,yes,southeast,41183.9434276193,Atención Preventiva Prioritaria
+5871535c9f119e00,30,female,19.95,Normal,3,no,northwest,6105.978995875241,Seguimiento Estándar
+59506263a3d39954,23,female,31.4,Obesidad I,0,yes,southwest,34366.47461377111,Atención Preventiva Prioritaria
+499e5c4acdb36724,46,male,38.17,Obesidad II,2,no,southeast,8903.864340560529,Seguimiento Estándar
+329beab8b65b0e67,53,female,36.86,Obesidad II,3,yes,northwest,46431.137770374226,Atención Preventiva Prioritaria
+17c4e2fc92947d08,27,female,32.395,Obesidad I,1,no,northeast,5318.54628434845,Seguimiento Estándar
+05ffb47d6c4681da,23,female,42.75,Obesidad III,1,yes,northeast,41344.326341826425,Atención Preventiva Prioritaria
+b9cb3c05b7418fef,63,female,25.08,Sobrepeso,0,no,northwest,15304.09253907751,Seguimiento Estándar
+8e760df928c8f398,55,male,29.9,Sobrepeso,0,no,southwest,11486.842427251795,Seguimiento Estándar
+2a76c18f7ad7599b,35,female,35.86,Obesidad II,2,no,southeast,5859.675521580888,Seguimiento Estándar
+90280a0a5a423851,34,male,32.8,Obesidad I,1,no,southwest,6240.849498606498,Seguimiento Estándar
+ee025f0495b92254,19,female,18.6,Normal,0,no,southwest,1841.3104718661066,Seguimiento Estándar
+bb18fb5c329fdd98,39,female,23.87,Normal,5,no,southeast,8300.124262168116,Seguimiento Estándar
+10f62c69a05baf96,27,male,45.9,Obesidad III,2,no,southwest,4212.752502267664,Seguimiento Estándar
+45b16e9f8c5a0340,57,male,40.28,Obesidad III,0,no,northeast,12766.469622815126,Seguimiento Estándar
+16acd55bb870bc43,52,female,18.335,Bajo peso,0,no,northwest,9134.386715313914,Seguimiento Estándar
+cdba818c22f8dc0d,28,male,33.82,Obesidad I,0,no,northwest,4704.458023570254,Seguimiento Estándar
+67687c4de25fedab,50,female,28.12,Sobrepeso,3,no,northwest,11731.44792892024,Seguimiento Estándar
+e31e1ee599bc1c5e,44,female,25.0,Normal,1,no,southwest,8054.6527415374385,Seguimiento Estándar
+976408f0ec23ee7a,26,female,22.23,Normal,0,no,northwest,3636.2073526684126,Seguimiento Estándar
+9d5b5e78c55905cd,33,male,30.25,Obesidad I,0,no,southeast,4430.3475178692925,Seguimiento Estándar
+9e181a3d55f14d69,19,female,32.49,Obesidad I,0,yes,northwest,35280.79828878157,Atención Preventiva Prioritaria
+f1d2ad16d24b2828,50,male,37.07,Obesidad II,1,no,southeast,9699.162994043747,Seguimiento Estándar
+5c1cf8a975d5648b,41,female,32.6,Obesidad I,3,no,southwest,8038.156854184414,Seguimiento Estándar
+f698eef3ef75edb8,52,female,24.86,Normal,0,no,southeast,13533.088433026041,Seguimiento Estándar
+9efe981f3bb8d628,39,male,32.34,Obesidad I,2,no,southeast,7405.23702467255,Seguimiento Estándar
+63191e49b973d067,50,male,32.3,Obesidad I,2,no,southwest,10182.971696355482,Seguimiento Estándar
+952dd546bb0fbd05,52,male,32.775,Obesidad I,3,no,northwest,12001.262940312034,Seguimiento Estándar
+f9b6d8864140374c,60,male,32.8,Obesidad I,0,yes,southwest,45714.60744605615,Atención Preventiva Prioritaria
+051140d5f7e67b50,20,female,31.92,Obesidad I,0,no,northwest,2455.671606229327,Seguimiento Estándar
+53d5ec98980d76b4,55,male,21.5,Normal,1,no,southwest,11146.12537717735,Seguimiento Estándar
+c1217d2f75e297f0,42,male,34.1,Obesidad I,0,no,southwest,7281.54677879267,Seguimiento Estándar
+68ff3dbf19463f4f,18,female,30.305,Obesidad I,0,no,northeast,2920.7431738968094,Seguimiento Estándar
+5c6fb10ecf982fcf,58,female,36.48,Obesidad II,0,no,northwest,12921.124303652306,Seguimiento Estándar
+69a8637a51056d9d,43,female,32.56,Obesidad I,3,yes,southeast,41143.45261539669,Atención Preventiva Prioritaria
+a92ba2f2763f723e,35,female,35.815,Obesidad II,1,no,northwest,5598.3081812581295,Seguimiento Estándar
+73fbc7105d419ba6,48,female,27.93,Sobrepeso,4,no,northwest,11125.261837039254,Seguimiento Estándar
+9237f41f879fd023,36,female,22.135,Normal,3,no,northeast,7384.752832135536,Seguimiento Estándar
+7d0cdb5163c6c810,19,male,44.88,Obesidad III,0,yes,southeast,38290.01482618491,Atención Preventiva Prioritaria
+f60834406ce89723,23,female,23.18,Normal,2,no,northwest,8439.102512286932,Seguimiento Estándar
+5493cb5f4fe0e28b,20,female,30.59,Obesidad I,0,no,northeast,2552.0026225197216,Seguimiento Estándar
+60190ea1c386af91,32,female,41.1,Obesidad III,0,no,southwest,4274.166631477938,Seguimiento Estándar
+86c71a44aec9d534,43,female,34.58,Obesidad I,1,no,northwest,8337.655729245633,Seguimiento Estándar
+85906f74152ce9e0,34,male,42.13,Obesidad III,2,no,southeast,5752.933641010411,Seguimiento Estándar
+79e3a09210cf71ef,30,male,38.83,Obesidad II,1,no,southeast,5541.111137397528,Seguimiento Estándar
+3aabeaca7afa3dcb,18,female,28.215,Sobrepeso,0,no,northeast,2552.084008729081,Seguimiento Estándar
+6861bf6fe692d1ff,41,female,28.31,Sobrepeso,1,no,northwest,6964.672411910772,Seguimiento Estándar
+03f064780d392153,35,female,26.125,Sobrepeso,0,no,northeast,4906.968642436501,Seguimiento Estándar
+6cd22d27cfeee749,57,male,40.37,Obesidad III,0,no,southeast,12586.49468291089,Seguimiento Estándar
+8185d48fac057a76,29,female,24.6,Normal,2,no,southwest,5385.7620864272585,Seguimiento Estándar
+7909a8f65aa747d2,32,male,35.2,Obesidad II,2,no,southwest,5250.768322660616,Seguimiento Estándar
+2616e6c6b3619bb3,37,female,34.105,Obesidad I,1,no,northwest,6443.766806385715,Seguimiento Estándar
+a4bf4ca9d549fa22,18,male,27.36,Sobrepeso,1,yes,northeast,17052.8167593408,Seguimiento Estándar
+46955464928dde0f,43,female,26.7,Sobrepeso,2,yes,southwest,22981.50791054817,Atención Preventiva Prioritaria
+45bb19a180426182,56,female,41.91,Obesidad III,0,no,southeast,12100.934536947896,Seguimiento Estándar
+286dfcc7419a00a0,38,male,29.26,Sobrepeso,2,no,northwest,6793.0699589357055,Seguimiento Estándar
+4c9917385e2178d0,29,male,32.11,Obesidad I,2,no,northwest,5664.378582389692,Seguimiento Estándar
+bc260d964672dad1,22,female,27.1,Sobrepeso,0,no,southwest,2147.5069039980976,Seguimiento Estándar
+2e54d17280affee2,52,female,24.13,Normal,1,yes,northwest,23716.82485174266,Atención Preventiva Prioritaria
+338be954b3d9ee04,40,female,27.4,Sobrepeso,1,no,southwest,6847.631553939385,Seguimiento Estándar
+9735899a908d5a9e,23,female,34.865,Obesidad I,0,no,northeast,3387.3993199371453,Seguimiento Estándar
+b78de0d122a24806,31,male,29.81,Sobrepeso,0,yes,southeast,19082.15805613833,Seguimiento Estándar
+71fd31356682a10f,42,female,41.325,Obesidad III,1,no,northeast,8671.318352864362,Seguimiento Estándar
+5fe905a01ddbc77e,24,female,29.925,Sobrepeso,0,no,northwest,3711.055938212012,Seguimiento Estándar
+ae209aa801641bfb,25,female,30.3,Obesidad I,0,no,southwest,3922.1664325486877,Seguimiento Estándar
+7f218cc951981f3d,48,female,27.36,Sobrepeso,1,no,northeast,11087.096307292297,Seguimiento Estándar
+5790f46d03ce9ac5,23,female,28.49,Sobrepeso,1,yes,southeast,18702.386420061313,Seguimiento Estándar
+609d4f8236692578,45,male,23.56,Normal,2,no,northeast,8334.850694914101,Seguimiento Estándar
+203c2f39f7d55944,20,male,35.625,Obesidad II,3,yes,northwest,36391.45159554028,Atención Preventiva Prioritaria
+6354ca2fb23879c8,62,female,32.68,Obesidad I,0,no,northwest,13717.013318539108,Seguimiento Estándar
+0ca68e994a6033dc,43,female,25.27,Sobrepeso,1,yes,northeast,22472.825330708805,Atención Preventiva Prioritaria
+b0fe64a001ef07df,23,female,28.0,Sobrepeso,0,no,southwest,5054.693558203779,Seguimiento Estándar
+74a945fcf984bf29,31,female,32.775,Obesidad I,2,no,northwest,5783.2123589423945,Seguimiento Estándar
+a4a7384ebaf0a0cb,41,female,21.755,Normal,1,no,northeast,7709.707208246742,Seguimiento Estándar
+b61488fae63a14de,58,female,32.395,Obesidad I,1,no,northeast,12470.90107784582,Seguimiento Estándar
+2acf270c7a764b18,48,female,36.575,Obesidad II,0,no,northwest,10670.465021724054,Seguimiento Estándar
+bb69ab5eea9da456,31,female,21.755,Normal,0,no,northwest,4247.697908311107,Seguimiento Estándar
+d180ecffc2c54144,19,female,27.93,Sobrepeso,3,no,northwest,8620.30104320563,Seguimiento Estándar
+413be9e19ae4dddd,19,female,30.02,Obesidad I,0,yes,northwest,31108.039905882884,Atención Preventiva Prioritaria
+8389639784737b2e,41,male,33.55,Obesidad I,0,no,southeast,7042.796629647923,Seguimiento Estándar
+6aa7fa7af7b487f6,40,male,29.355,Sobrepeso,1,no,northwest,6785.668051567575,Seguimiento Estándar
+aa091dcc3de48bf9,31,female,25.8,Sobrepeso,2,no,southwest,5379.625777050875,Seguimiento Estándar
+e8fa60f986fa86dd,37,male,24.32,Normal,2,no,northwest,6752.877117048263,Seguimiento Estándar
+5c7d098384fc039a,46,male,40.375,Obesidad III,2,no,northwest,9356.552594192937,Seguimiento Estándar
+dded593b55001cc2,22,male,32.11,Obesidad I,0,no,northwest,2554.550552804217,Seguimiento Estándar
+36eec74ca7336a90,51,male,32.3,Obesidad I,1,no,northeast,10181.49778181936,Seguimiento Estándar
+215473bef2e596e7,18,female,27.28,Sobrepeso,3,yes,southeast,17423.577362400178,Seguimiento Estándar
+83fec75f8a4f50f0,35,male,17.86,Bajo peso,1,no,northwest,5872.257260726955,Seguimiento Estándar
+a7aa35c2d242c0ee,59,female,34.8,Obesidad I,2,no,southwest,18255.959057197255,Seguimiento Estándar
+ad4a4e421d9e9387,36,male,33.4,Obesidad I,2,yes,southwest,39496.54090522472,Atención Preventiva Prioritaria
+5e893f0dccadcf0a,37,female,25.555,Sobrepeso,1,yes,northeast,19772.79698149199,Seguimiento Estándar
+bda5fd05a17fe7be,59,male,37.1,Obesidad II,1,no,southwest,15127.1035376249,Seguimiento Estándar
+6e1b59de8c506bc5,36,male,30.875,Obesidad I,1,no,northwest,5853.025608327269,Seguimiento Estándar
+dea0976ea030e102,39,male,34.1,Obesidad I,2,no,southeast,8843.181511819228,Seguimiento Estándar
+10f246521711fc2f,18,male,21.47,Normal,0,no,northeast,1692.3303399892777,Seguimiento Estándar
+112584e2dfaa5e05,52,female,33.3,Obesidad I,2,no,southwest,11971.477275412683,Seguimiento Estándar
+68b94dc488e35f5c,27,female,31.255,Obesidad I,1,no,northwest,5129.938181319028,Seguimiento Estándar
+2b5bcf79551b6589,18,male,39.14,Obesidad II,0,no,northeast,2429.774767828575,Seguimiento Estándar
+cab08e6d3f9c7ef9,40,male,25.08,Sobrepeso,0,no,southeast,6020.260869582417,Seguimiento Estándar
+303f0ad1e087f9f3,29,male,37.29,Obesidad II,2,no,southeast,4791.484226425824,Seguimiento Estándar
+09ca157af0601167,46,female,34.6,Obesidad I,1,yes,southwest,41903.68655265227,Atención Preventiva Prioritaria
+c80fd603c159ad6c,38,female,30.21,Obesidad I,3,no,northwest,6974.326814169952,Seguimiento Estándar
+7da621cdca0ae1db,30,female,21.945,Normal,1,no,northeast,5483.246462936488,Seguimiento Estándar
+c927c215dd1d0246,40,male,24.97,Normal,2,no,southeast,7198.29332023376,Seguimiento Estándar
+03787f1f3139aa8a,50,male,25.3,Sobrepeso,0,no,southeast,10471.155558648064,Seguimiento Estándar
+a6014411ca5b8932,20,female,24.42,Normal,0,yes,southeast,18610.19387995074,Seguimiento Estándar
+4a195718da9b9882,41,male,23.94,Normal,1,no,northeast,6928.21191108547,Seguimiento Estándar
+842910037f131255,33,female,39.82,Obesidad II,1,no,southeast,5244.035131691438,Seguimiento Estándar
+a746272fcd7a8ce0,38,male,16.815,Bajo peso,2,no,northeast,6878.772715108242,Seguimiento Estándar
+10d6af22aa9e0511,42,male,37.18,Obesidad II,2,no,southeast,7664.260348828529,Seguimiento Estándar
+ec3856b918b05a60,56,male,34.43,Obesidad I,0,no,southeast,11639.968222000554,Seguimiento Estándar
+dff264b50b1b3e22,58,male,30.305,Obesidad I,0,no,northeast,12020.512971187845,Seguimiento Estándar
+b8fa5dfb210e7b51,52,male,34.485,Obesidad I,3,yes,northwest,43916.9349584915,Atención Preventiva Prioritaria
+f2e550ab380baf46,20,female,21.8,Normal,0,yes,southwest,15982.02621306833,Seguimiento Estándar
+07f7d136b5825b72,54,female,24.605,Normal,3,no,northwest,13192.765118221703,Seguimiento Estándar
+b414bb36ae90fce0,58,male,23.3,Normal,0,no,southwest,11919.13884978204,Seguimiento Estándar
+fbd079ba12c1919f,45,female,27.83,Sobrepeso,2,no,southeast,8854.522809639286,Seguimiento Estándar
+19db684da947ff7c,26,male,31.065,Obesidad I,0,no,northwest,3199.1107664480232,Seguimiento Estándar
+ee95cb191c3ac880,63,female,21.66,Normal,0,no,northeast,14076.87665867992,Seguimiento Estándar
+9864e11a7381bbf4,58,female,28.215,Sobrepeso,0,no,northwest,12385.877478674816,Seguimiento Estándar
+c33cea7d900c82f7,37,male,22.705,Normal,3,no,northeast,7254.630366129313,Seguimiento Estándar
+00d7b34590270a88,25,female,42.13,Obesidad III,1,no,southeast,3729.1078516488415,Seguimiento Estándar
+7a926292747ba703,52,male,41.8,Obesidad III,2,yes,southeast,47268.43853482579,Atención Preventiva Prioritaria
+5f9241d86f623651,64,male,36.96,Obesidad II,2,yes,southeast,48014.306761026724,Atención Preventiva Prioritaria
+4edb5ce5190ccad0,22,female,21.28,Normal,3,no,northwest,5148.546736889607,Seguimiento Estándar
+30eab8b7cd6df325,28,female,33.11,Obesidad I,0,no,southeast,3723.169425374097,Seguimiento Estándar
+8e5447ff43d56d10,18,male,33.33,Obesidad I,0,no,southeast,1885.7258862692556,Seguimiento Estándar
+895f12552a1e2e68,28,male,24.3,Normal,5,no,southwest,5883.464862029155,Seguimiento Estándar
+2339d6d3b33b586d,45,female,25.7,Sobrepeso,3,no,southwest,9028.570218254083,Seguimiento Estándar
+3e82ce43327d1e7f,33,male,29.4,Sobrepeso,4,no,southwest,6434.592950106154,Seguimiento Estándar
+f8b6fe259d651300,18,female,39.82,Obesidad II,0,no,southeast,1967.6528017978449,Seguimiento Estándar
+03763d7edfcb924d,32,male,33.63,Obesidad I,1,yes,northeast,40368.95158842195,Atención Preventiva Prioritaria
+d3e03dc07e81d912,24,male,29.83,Sobrepeso,0,yes,northeast,19755.04755198604,Seguimiento Estándar
+7cb95de2b8872582,19,male,19.8,Normal,0,no,southwest,1516.5089896159714,Seguimiento Estándar
+bbcb1232b0578670,20,male,27.3,Sobrepeso,0,yes,southwest,17188.646176376056,Seguimiento Estándar
+3cfc90ad9cc84ef7,40,female,29.3,Sobrepeso,4,no,southwest,8938.192972412931,Seguimiento Estándar
+7cf6ea2cf9fb8500,34,female,27.72,Sobrepeso,0,no,southeast,4681.933675035435,Seguimiento Estándar
+6f765fd1f1b218ec,42,female,37.9,Obesidad II,0,no,southwest,7196.041157330657,Seguimiento Estándar
+fa1532713929eaf3,51,female,36.385,Obesidad II,3,no,northwest,11548.795457606218,Seguimiento Estándar
+22f35632f53a1f66,54,female,27.645,Sobrepeso,1,no,northwest,12196.943095575614,Seguimiento Estándar
+22356102893b461d,55,male,37.715,Obesidad II,3,no,northwest,17427.613648856277,Seguimiento Estándar
+8aaa7b69853df574,52,female,23.18,Normal,0,no,northeast,11468.068029104537,Seguimiento Estándar
+e260351d5f6a7837,32,female,20.52,Normal,0,no,northeast,4688.073708380577,Seguimiento Estándar
+153affc70f47e6d6,28,male,37.1,Obesidad II,1,no,southwest,3939.531068264633,Seguimiento Estándar
+60408ba3243008f6,41,female,28.05,Sobrepeso,1,no,southeast,6882.681471549879,Seguimiento Estándar
+86d4c3f9033c4462,43,female,29.9,Sobrepeso,1,no,southwest,7982.162225310841,Seguimiento Estándar
+4f93302ad319b7e6,49,female,33.345,Obesidad I,2,no,northeast,10594.801720488358,Seguimiento Estándar
+c70647f9ad9039fb,64,male,23.76,Normal,0,yes,southeast,26815.312156729153,Atención Preventiva Prioritaria
+eaf93d1af27cfa02,55,female,30.5,Obesidad I,0,no,southwest,11777.446807734048,Seguimiento Estándar
+ca4c75dee5a760b4,24,male,31.065,Obesidad I,0,yes,northeast,34453.420361892946,Atención Preventiva Prioritaria
+91dd0edfe5ca5600,20,female,33.3,Obesidad I,0,no,southwest,2601.3470800425735,Seguimiento Estándar
+439106c152e96d19,45,male,27.5,Sobrepeso,3,no,southwest,8900.21990629079,Seguimiento Estándar
+f44de552d9fb57b7,26,male,33.915,Obesidad I,1,no,northwest,3892.5656984290736,Seguimiento Estándar
+342cc9b8c78a1f3d,25,female,34.485,Obesidad I,0,no,northwest,3355.2017412980185,Seguimiento Estándar
+9c9286abe854e074,43,male,25.52,Sobrepeso,5,no,southeast,9421.216154658428,Seguimiento Estándar
+1f9df7456e5c90cc,35,male,27.61,Sobrepeso,1,no,southeast,5376.787557034423,Seguimiento Estándar
+576ec639b6f5993b,26,male,27.06,Sobrepeso,0,yes,southeast,18755.739163313938,Seguimiento Estándar
+e4ac9d5307cc7e7e,57,male,23.7,Normal,0,no,southwest,11840.03528736997,Seguimiento Estándar
+a63f6187aef3f77d,22,female,30.4,Obesidad I,0,no,northeast,2672.7866278027254,Seguimiento Estándar
+d6d87738244fa277,32,female,29.735,Sobrepeso,0,no,northwest,4524.095511520187,Seguimiento Estándar
+a5ebdbc6b61505a6,39,male,29.925,Sobrepeso,1,yes,northeast,22117.36132888425,Atención Preventiva Prioritaria
+31c4ca985065649c,25,female,26.79,Sobrepeso,2,no,northwest,5735.36863893495,Seguimiento Estándar
+f75d0a63f1ff32a3,48,female,33.33,Obesidad I,0,no,southeast,10252.571706802108,Seguimiento Estándar
+d088d027338fe1df,47,female,27.645,Sobrepeso,2,yes,northwest,24127.780663346388,Atención Preventiva Prioritaria
+d74e0155afa3d244,18,female,21.66,Normal,0,yes,northeast,14675.409462729187,Seguimiento Estándar
+11e062c7c2352f7b,18,male,30.03,Obesidad I,1,no,southeast,2440.96591439527,Seguimiento Estándar
+53897e4869c14f12,61,male,36.3,Obesidad II,1,yes,southwest,47651.61968174278,Atención Preventiva Prioritaria
+8f6565de9c9b34b2,47,female,24.32,Normal,0,no,northeast,10606.23764996703,Seguimiento Estándar
+2be0ebf256d3e57c,28,female,17.29,Bajo peso,0,no,northeast,4252.126300257374,Seguimiento Estándar
+f6deef6baa85dcfe,36,female,25.9,Sobrepeso,1,no,southwest,5476.948234649483,Seguimiento Estándar
+7ba2c6d2f17b5ee3,20,male,39.4,Obesidad II,2,yes,southwest,37993.00674874117,Atención Preventiva Prioritaria
+fc23d317055149d3,44,male,34.32,Obesidad I,1,no,southeast,8232.335135240826,Seguimiento Estándar
+187ecea65cbf427b,38,female,19.95,Normal,2,no,northeast,7395.7886310618605,Seguimiento Estándar
+9ac3e3b14124dc2b,19,male,34.9,Obesidad I,0,yes,southwest,35244.08861998464,Atención Preventiva Prioritaria
+08c3687aa64da438,21,male,23.21,Normal,0,no,southeast,1930.2532289735973,Seguimiento Estándar
+25b0ebbf430294fb,46,male,25.745,Sobrepeso,3,no,northwest,9396.351482266244,Seguimiento Estándar
+da0267913b20624c,58,male,25.175,Sobrepeso,0,no,northeast,12124.993252045375,Seguimiento Estándar
+53d34bd52b6d9fc2,20,male,22.0,Normal,1,no,southwest,2243.2156113242554,Seguimiento Estándar
+ca70b4b0f451a163,18,male,26.125,Sobrepeso,0,no,northeast,1849.9096945324466,Seguimiento Estándar
+14dfe6db84ddc433,28,female,26.51,Sobrepeso,2,no,southeast,5135.3011615326495,Seguimiento Estándar
+7b479ee3fc621d48,33,male,27.455,Sobrepeso,2,no,northwest,5908.051730470747,Seguimiento Estándar
+60c468aa33010552,19,female,25.745,Sobrepeso,1,no,northwest,2755.317684617364,Seguimiento Estándar
+e7fef52ceefc6137,45,male,30.36,Obesidad I,0,yes,southeast,44136.27536017636,Atención Preventiva Prioritaria
+0dba7ce45a32aa24,62,male,30.875,Obesidad I,3,yes,northwest,45810.10295350389,Atención Preventiva Prioritaria
+5414ef126a67234f,25,female,20.8,Normal,1,no,southwest,4155.390522879656,Seguimiento Estándar
+ba71c269dab53532,43,male,27.8,Sobrepeso,0,yes,southwest,22791.179947566063,Atención Preventiva Prioritaria
+cd1b48e1766324dd,42,male,24.605,Normal,2,yes,northeast,21826.941164022497,Atención Preventiva Prioritaria
+89325aa1a859cb64,24,female,27.72,Sobrepeso,0,no,southeast,3854.289693356666,Seguimiento Estándar
+a6b7083eff2bddf5,29,female,21.85,Normal,0,yes,northeast,16344.39533905145,Seguimiento Estándar
+0779a2252e8cf0c0,32,male,28.12,Sobrepeso,4,yes,northwest,19870.9348810924,Seguimiento Estándar
+4273bb21e8da0a81,25,female,30.2,Obesidad I,0,yes,southwest,33617.87856094869,Atención Preventiva Prioritaria
+6486ca635f72bf41,41,male,32.2,Obesidad I,2,no,southwest,7678.506198885763,Seguimiento Estándar
+6254530acb1cbb56,42,male,26.315,Sobrepeso,1,no,northwest,7014.9665415034715,Seguimiento Estándar
+ea5c2c3ba395eec4,33,female,26.695,Sobrepeso,0,no,northwest,4763.602211629525,Seguimiento Estándar
+00ec9a47d4e7f8b7,34,male,42.9,Obesidad III,1,no,southwest,5464.0983423264415,Seguimiento Estándar
+4f4ab2146c329fda,19,female,34.7,Obesidad I,2,yes,southwest,35937.924429226776,Atención Preventiva Prioritaria
+bdca1cee03cc4965,30,female,23.655,Normal,3,yes,northwest,17995.50802526578,Seguimiento Estándar
+8fe800c1fa5bf8db,18,male,28.31,Sobrepeso,1,no,northeast,3041.0371258197188,Seguimiento Estándar
+df455003e6e4c8f6,19,female,20.6,Normal,0,no,southwest,1819.0517322763058,Seguimiento Estándar
+b6e04495bc3d3330,18,male,53.13,Obesidad III,0,no,southeast,1737.4758144103723,Seguimiento Estándar
+05620b242c49a54f,35,male,39.71,Obesidad II,4,no,northeast,8246.23792746303,Seguimiento Estándar
+decf2e2f9a176851,39,female,26.315,Sobrepeso,2,no,northwest,7153.626022589913,Seguimiento Estándar
+8fffe69faee504ad,31,male,31.065,Obesidad I,3,no,northwest,5773.891144631778,Seguimiento Estándar
+eb4296a278546535,62,male,26.695,Sobrepeso,0,yes,northeast,27708.273075950103,Atención Preventiva Prioritaria
+8fc424e736d20c1d,62,male,38.83,Obesidad II,0,no,southeast,13758.687993139578,Seguimiento Estándar
+f1dac61d5467732f,42,female,40.37,Obesidad III,2,yes,southeast,43065.92368152369,Atención Preventiva Prioritaria
+161c6751c376b8f5,31,male,25.935,Sobrepeso,1,no,northwest,5026.05665410592,Seguimiento Estándar
+f3cb17d12cf8a2d1,61,male,33.535,Obesidad I,0,no,northeast,13672.328417863668,Seguimiento Estándar
+02227b99111019b9,42,female,32.87,Obesidad I,0,no,northeast,7330.525059959935,Seguimiento Estándar
+02f85e56513b03a7,51,male,30.03,Obesidad I,1,no,southeast,9994.003846442154,Seguimiento Estándar
+ae951076cb14cb8b,23,female,24.225,Normal,2,no,northeast,8472.605012125818,Seguimiento Estándar
+d6b1d032298bd67c,52,male,38.6,Obesidad II,2,no,southwest,11919.610292256619,Seguimiento Estándar
+a7db395aa9b3ef0c,57,female,25.74,Sobrepeso,2,no,southeast,13480.258471180789,Seguimiento Estándar
+9a5e2747c1cd759b,23,female,33.4,Obesidad I,0,no,southwest,4567.747526514708,Seguimiento Estándar
+6cbdfabbe9e155b3,52,female,44.7,Obesidad III,3,no,southwest,12237.11713129794,Seguimiento Estándar
+d229f523a41580ba,50,male,30.97,Obesidad I,3,no,northwest,10831.84328596053,Seguimiento Estándar
+eb6a632e8c4ad73c,18,female,31.92,Obesidad I,0,no,northeast,2536.6711793340505,Seguimiento Estándar
+be43515905839612,18,female,36.85,Obesidad II,0,no,southeast,1928.7141442246366,Seguimiento Estándar
+ff99ff5c1d930e85,21,female,25.8,Sobrepeso,0,no,southwest,2208.716896697438,Seguimiento Estándar
+460bb3c0e697d5ea,61,female,29.07,Sobrepeso,0,yes,northwest,27901.389534272406,Atención Preventiva Prioritaria
