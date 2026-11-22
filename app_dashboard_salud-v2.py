@@ -648,6 +648,9 @@ with tabs[0]:
             },
             title="Salto de Siniestralidad a partir de Obesidad I (IMC ≥ 30) en Fumadores",
         )
+        # Valores en USD enteros (con separador de miles) en el eje y en el hover
+        fig_bmi.update_yaxes(tickprefix="$", tickformat=",.0f")
+        fig_bmi.update_traces(hovertemplate="%{x}<br>Costo mediano: $%{y:,.0f} USD<extra>%{fullData.name}</extra>")
         st.plotly_chart(fig_bmi, use_container_width=True)
 
     st.divider()
@@ -798,6 +801,13 @@ with tabs[1]:
                 line=dict(color="#111827", dash="dash"),
             )
         )
+        # Ejes en USD enteros (sin "k") y hover sin decimales
+        fig_pred.update_xaxes(tickprefix="$", tickformat=",.0f")
+        fig_pred.update_yaxes(tickprefix="$", tickformat=",.0f")
+        fig_pred.update_traces(
+            selector=dict(mode="markers"),
+            hovertemplate="Predicho: $%{x:,.0f} USD<br>Real: $%{y:,.0f} USD<extra>%{fullData.name}</extra>",
+        )
         st.plotly_chart(fig_pred, use_container_width=True)
 
     with g2:
@@ -810,6 +820,12 @@ with tabs[1]:
             color="Aumento del MAE (USD)",
             color_continuous_scale="Blues",
             title="Explicabilidad Global: Importancia por Permutación en Prueba (RF04 / RNF03)",
+        )
+        # Eje x, barra de color y hover en USD enteros
+        fig_imp.update_xaxes(tickprefix="$", tickformat=",.0f")
+        fig_imp.update_coloraxes(colorbar=dict(tickprefix="$", tickformat=",.0f"))
+        fig_imp.update_traces(
+            hovertemplate="%{y}<br>Aumento del MAE: $%{x:,.0f} USD<extra></extra>"
         )
         st.plotly_chart(fig_imp, use_container_width=True)
 
@@ -1127,26 +1143,48 @@ with tabs[3]:
             ),
             unsafe_allow_html=True,
         )
+        # Gráfico por deciles: la base se divide en 10 tramos de IMC con 10% de afiliados cada uno.
+        # Si el nuevo lote es estable, sus barras quedan cerca de la línea del 10%.
+        etiquetas = [f"Tramo {k}" for k in range(1, 11)]
+        rangos = np.concatenate([[lote_base.min()], cortes_psi[1:-1], [lote_base.max()]])
         df_drift_plot = pd.DataFrame(
             {
-                "IMC": np.concatenate([lote_base, lote_nuevo]),
-                "Origen del Lote": ["Base Entrenamiento (Referencia)"] * len(lote_base)
-                + ["Nuevo Lote Evaluado"] * len(lote_nuevo),
+                "Tramo de IMC (de menor a mayor)": etiquetas * 2,
+                "% de afiliados": np.concatenate([p_base, p_nuevo]) * 100,
+                "Origen del Lote": ["Base de entrenamiento"] * 10 + ["Nuevo lote"] * 10,
+                "Rango IMC": [f"{rangos[k]:.1f} a {rangos[k + 1]:.1f}" for k in range(10)] * 2,
             }
         )
-        fig_drift = px.histogram(
+        fig_drift = px.bar(
             df_drift_plot,
-            x="IMC",
+            x="Tramo de IMC (de menor a mayor)",
+            y="% de afiliados",
             color="Origen del Lote",
-            barmode="overlay",
-            histnorm="probability density",
+            barmode="group",
+            custom_data=["Rango IMC"],
             color_discrete_map={
-                "Base Entrenamiento (Referencia)": "#2C5282",
-                "Nuevo Lote Evaluado": "#C53030",
+                "Base de entrenamiento": "#2C5282",
+                "Nuevo lote": "#C53030",
             },
-            title="Comparación de Distribuciones de IMC para Detección de Data Drift",
+            title="Deriva del IMC: % de afiliados por tramo (base vs. nuevo lote)",
+        )
+        fig_drift.add_hline(
+            y=10,
+            line_dash="dash",
+            line_color="#9CA3AF",
+            annotation_text="Referencia estable: 10%",
+            annotation_position="top left",
+        )
+        fig_drift.update_yaxes(ticksuffix="%", rangemode="tozero")
+        fig_drift.update_traces(
+            hovertemplate="%{x} (IMC %{customdata[0]})<br>%{y:.1f}% de afiliados<extra>%{fullData.name}</extra>"
         )
         st.plotly_chart(fig_drift, use_container_width=True)
+        st.caption(
+            "Cómo leerlo: dividimos el IMC de la base de entrenamiento en 10 tramos con 10% de afiliados cada uno (barras azules). "
+            "Si el nuevo lote (barras rojas) se parece a la base, todas las barras quedan cerca de la línea del 10%. "
+            "Si las rojas se juntan hacia un lado, el IMC cambió y sube el PSI."
+        )
 
 # ==============================================================================
 # TAB 5: FUNDAMENTACIÓN FINANCIERA Y SENSIBILIDAD (RF06 / SECCIÓN 2.4)
