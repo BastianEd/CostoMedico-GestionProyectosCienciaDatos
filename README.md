@@ -2,6 +2,10 @@
 
 Proyecto académico de ciencia de datos para analizar los costos médicos anuales y comparar modelos de estimación. El notebook puede ejecutarse en **Google Colab** o **VS Code**. El dashboard interactivo se ejecuta localmente desde **VS Code** con Streamlit.
 
+## Demo del dashboard
+
+Puedes probar el dashboard publicado aquí: [Abrir demo en Streamlit](https://costomedico-dashboard-gestion-proyectos.streamlit.app/).
+
 ## Integrantes
 
 - Nicolás Fonseca Olivares
